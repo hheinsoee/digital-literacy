@@ -1061,6 +1061,12 @@ Questions? Let's discuss!
 
 </div>
 
+<div class="mt-8 text-lg">
+
+**Hein Soe** 🙂
+
+</div>
+
 <!--
 ကျေးဇူးတင်ပါတယ်။ ဒီနေ့ ၃ နာရီအတွင်း digital literacy ပိုတိုးတက်သွားပါပြီ။ ဒီနေ့ပဲ စလုပ်ပါ — Gmail/Facebook မှာ 2FA ဖွင့်ပါ၊ LinkedIn profile ဖန်တီးပါ၊ Canva နဲ့ CV လုပ်ကြည့်ပါ၊ Telegram Bot ကို သုံးပါ။ မေးခွန်းရှိရင် မေးနိုင်ပါတယ်။ ဒီနေ့ တက်ရောက်ပေးတဲ့အတွက် ကျေးဇူးအများကြီး တင်ပါတယ်!
 -->

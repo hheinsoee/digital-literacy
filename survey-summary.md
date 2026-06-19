@@ -106,12 +106,19 @@
 
 ---
 
+## Context
+
+All 31 participants are **internal migrants to Yangon**, primarily displaced by civil war — 61% from Rakhine State, others from Sagaing, Bago, Shan, and Mon. Many expressed that they joined the training to **find opportunities** — jobs, skills, and pathways to rebuild their lives in a new city. Digital literacy is not just education for them — it's a survival tool for accessing employment, financial services, and safe communication in an unfamiliar environment.
+
+---
+
 ## Key Takeaways
 
 1. **Young, female-majority audience** — 61% aged 19–24, 68% female
-2. **Primarily Rakhine migrants** — 61% from Rakhine State, all internal migrants to Yangon
-3. **Digital skills are the top priority** — 42% want to improve general digital literacy
-4. **Fake news is a major concern** — 29% specifically want mis/disinformation awareness
-5. **Word of mouth drives attendance** — 58% heard about it from friends, 42% from Facebook
-6. **Bot awareness is split** — 52% know about Telegram bots, 48% don't, making the Telegram Bot session valuable
-7. **Industrial/outer townships** — participants concentrated in Hlaing Thar Yar (19%) and Tamwe (16%)
+2. **Conflict-displaced migrants** — 100% internal migrants to Yangon, 61% from Rakhine State, displaced by civil war
+3. **Seeking opportunities** — most joined to gain skills for jobs, income, and building a new life
+4. **Digital skills are the top priority** — 42% want to improve general digital literacy
+5. **Fake news is a major concern** — 29% specifically want mis/disinformation awareness
+6. **Word of mouth drives attendance** — 58% heard about it from friends, 42% from Facebook
+7. **Bot awareness is split** — 52% know about Telegram bots, 48% don't, making the Telegram Bot session valuable
+8. **Industrial/outer townships** — participants concentrated in Hlaing Thar Yar (19%) and Tamwe (16%)

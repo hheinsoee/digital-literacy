@@ -39,12 +39,12 @@ transition: fade-out
 | Time | Session |
 |------|---------|
 | 15 min | Opening & Icebreaker |
-| 35 min | Session 1: What is Digital Literacy? |
-| 40 min | Session 2: Must-Have Apps & Tools |
+| 20 min | Session 1: What is Digital Literacy? |
+| 45 min | Session 2: Must-Have Apps, Tools & Career |
 | 15 min | ☕ Break |
-| 35 min | Session 3: Digital Safety & Security + Phishing Demo |
-| 40 min | Session 4: Tech Trends + Telegram Bot |
-| 20 min | Reflection & Closing |
+| 55 min | Session 3: Digital Safety & Security + Phishing Demo |
+| 25 min | Session 4: Tech Trends + Telegram Bot |
+| 15 min | Reflection & Closing |
 
 <!--
 ဒီနေ့ အချိန်ဇယားကို အတူတူ ကြည့်ရအောင်။ Session ၄ ခုရှိပါတယ်။ တစ်ခုနဲ့တစ်ခုကြားမှာ break ပါ ပါတယ်။ မေးခွန်းရှိရင် အချိန်မရွေး မေးနိုင်ပါတယ်။
@@ -54,7 +54,7 @@ transition: fade-out
 layout: section
 ---
 
-# Icebreaker
+# Icebreaker (15 min)
 ## Digital Check-In
 
 <!--
@@ -87,7 +87,7 @@ layout: section
 background: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=1920
 ---
 
-# Session 1
+# Session 1 (20 min)
 ## What is Digital Literacy and Why Does It Matter?
 
 <!--
@@ -165,8 +165,8 @@ layout: section
 background: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920
 ---
 
-# Session 2
-## Must-Have Apps & Tools
+# Session 2 (45 min)
+## Must-Have Apps, Tools & Career
 
 <!--
 Session 2 — မရှိမဖြစ် လိုအပ်တဲ့ app တွေနဲ့ tool တွေအကြောင်း ပြောကြမယ်။ တက်ရောက်သူတွေ ဖုန်းထဲမှာ ဘယ် app တွေ ရှိပြီးသားလဲ မေးကြည့်ပါ။
@@ -423,7 +423,7 @@ layout: section
 background: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1920
 ---
 
-# Session 3
+# Session 3 (55 min)
 ## Digital Safety & Security
 
 <!--
@@ -1041,7 +1041,7 @@ layout: section
 background: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920
 ---
 
-# Session 4
+# Session 4 (25 min)
 ## Current & Future Tech Trends
 
 <!--
@@ -1211,7 +1211,7 @@ layout: section
 background: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1920
 ---
 
-# Reflection & Closing
+# Reflection & Closing (15 min)
 
 <!--
 နောက်ဆုံးအပိုင်း — ပြန်သုံးသပ်ခြင်းနဲ့ ပိတ်ပွဲ။

@@ -84,6 +84,24 @@ export default function Home() {
             </svg>
             Facebook Login
           </Link>
+
+          <Link
+            href="/encryption"
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 10,
+              padding: "14px 32px",
+              background: "#7c3aed",
+              color: "#fff",
+              borderRadius: 8,
+              textDecoration: "none",
+              fontWeight: 600,
+              fontSize: 16,
+            }}
+          >
+            🔐 Encryption Demo
+          </Link>
         </div>
 
         <p style={{ marginTop: 40, fontSize: 13, color: "#666" }}>

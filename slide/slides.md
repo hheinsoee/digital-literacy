@@ -51,7 +51,7 @@ transition: fade-out
 -->
 
 ---
-layout: section
+layout: center
 ---
 
 # Icebreaker (15 min)
@@ -83,8 +83,7 @@ layout: section
 -->
 
 ---
-layout: section
-background: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=1920
+layout: center
 ---
 
 # Session 1 (20 min)
@@ -161,8 +160,7 @@ Group ခွဲပြီး ဆွေးနွေးခိုင်းပါ —
 -->
 
 ---
-layout: section
-background: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920
+layout: center
 ---
 
 # Session 2 (45 min)
@@ -419,8 +417,7 @@ Activity ပြီးရင် ပြန်သုံးသပ်ပါ — ဘ�
 -->
 
 ---
-layout: section
-background: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1920
+layout: center
 ---
 
 # Session 3 (55 min)
@@ -1037,8 +1034,7 @@ Security key messages အနှစ်ချုပ် — ကိုယ်ရေ�
 -->
 
 ---
-layout: section
-background: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920
+layout: center
 ---
 
 # Session 4 (25 min)
@@ -1131,7 +1127,7 @@ Live Demo — ChatGPT သို့မဟုတ် Claude ဖွင့်ပြ�
 -->
 
 ---
-layout: section
+layout: center
 ---
 
 # Telegram Bot
@@ -1207,8 +1203,7 @@ Try these on your phone now:
 -->
 
 ---
-layout: section
-background: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1920
+layout: center
 ---
 
 # Reflection & Closing (15 min)

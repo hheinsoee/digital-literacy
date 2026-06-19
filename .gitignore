@@ -1,3 +1,6 @@
 node_modules
 dist
 .DS_Store
+
+# survey responses (sensitive data)
+Digital_Literacy_and_mis_dis_information_awareness_session_Responses.pdf

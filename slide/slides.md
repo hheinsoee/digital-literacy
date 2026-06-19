@@ -475,6 +475,103 @@ Privacy — Facebook/TikTok privacy settings ကို ဒီနေ့ပဲ ပ
 -->
 
 ---
+
+# 6. Why HTTPS Matters
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+### ❌ HTTP (Not Secure)
+
+<v-clicks>
+
+- Data sent as **plain text**
+- ISP can read **everything** you type
+- Network provider sees your **passwords, messages, searches**
+- Anyone on the same WiFi can intercept
+- Like sending a **postcard** — everyone can read it
+
+</v-clicks>
+
+</div>
+<div>
+
+### ✅ HTTPS (Secure)
+
+<v-clicks>
+
+- Data is **encrypted** before sending
+- ISP sees **which website** but NOT **what you type**
+- Passwords, messages, forms are **hidden**
+- Like sending a **locked box** — only the receiver has the key
+- Look for 🔒 in the URL bar
+
+</v-clicks>
+
+</div>
+</div>
+
+<!--
+HTTP နဲ့ HTTPS ကွာခြားချက် — HTTP မှာ data က plain text အနေနဲ့ သွားပါတယ်။ ISP (internet provider) က သင်ရိုက်တဲ့ password, message, search အားလုံး ဖတ်နိုင်ပါတယ်။ WiFi တစ်ခုတည်းမှာ ရှိတဲ့သူတိုင်း ကြည့်နိုင်ပါတယ်။ Postcard ပေးပို့သလိုပါပဲ — လမ်းမှာ ဘယ်သူမဆို ဖတ်နိုင်ပါတယ်။ HTTPS မှာတော့ data ကို encrypt လုပ်ပြီးမှ ပို့ပါတယ်။ ISP က ဘယ် website သွားလဲ သိပေမယ့် ဘာရိုက်ထည့်လဲ မသိပါဘူး။ သော့ခတ်ထားတဲ့ သေတ္တာ ပို့သလိုပါပဲ။
+-->
+
+---
+
+# What Can Your ISP & Network See?
+
+| | HTTP | HTTPS |
+|---|------|-------|
+| **Website you visit** | ✅ Yes | ✅ Yes (domain only) |
+| **Pages you view** | ✅ Yes | ❌ No |
+| **Passwords you type** | ✅ Yes | ❌ No |
+| **Form data (search, messages)** | ✅ Yes | ❌ No |
+| **Files you download** | ✅ Yes | ❌ No (name hidden) |
+
+<v-click>
+
+### 🔴 Real Example
+
+When you use **HTTP** on coffee shop WiFi:
+- The shop owner, ISP, and hackers can see: `username: john | password: 123456`
+
+When you use **HTTPS**:
+- They only see: `You visited facebook.com` — nothing else
+
+</v-click>
+
+<!--
+ISP နဲ့ network provider ဘာတွေ မြင်နိုင်လဲ — HTTP မှာ website, page, password, form data, download file အားလုံး မြင်နိုင်ပါတယ်။ HTTPS မှာ domain name ပဲ မြင်ပါတယ်၊ ဘာရိုက်ထည့်လဲ မမြင်ပါဘူး။ Real example — coffee shop WiFi မှာ HTTP သုံးရင် ဆိုင်ပိုင်ရှင်၊ ISP နဲ့ hacker တွေ username, password မြင်နိုင်ပါတယ်။ HTTPS ဆိုရင် facebook.com သွားတယ်ဆိုတာပဲ သိပါတယ်၊ ဘာလုပ်လဲ မသိပါဘူး။
+-->
+
+---
+
+# 🔒 How to Stay Safe
+
+<v-clicks>
+
+- ✅ Always check for **🔒** icon in the URL bar before entering passwords
+- ✅ URL must start with **https://** not http://
+- ✅ Never enter passwords on websites without HTTPS
+- ✅ Use **VPN** on public WiFi — encrypts ALL your traffic
+- ✅ Use **HTTPS-only mode** in your browser settings
+
+</v-clicks>
+
+<v-click>
+
+<div class="mt-8 text-center">
+
+### 💡 Live Demo: Open the Encryption Demo to see how encryption works!
+
+</div>
+
+</v-click>
+
+<!--
+ဘယ်လို safe ဖြစ်အောင် လုပ်မလဲ — URL bar မှာ 🔒 icon ရှိမရှိ အမြဲစစ်ပါ။ https:// နဲ့ စရပါမယ်။ HTTPS မရှိတဲ့ website မှာ password ထည့်လို့မရပါဘူး။ Public WiFi မှာ VPN သုံးပါ — traffic အားလုံးကို encrypt လုပ်ပေးပါတယ်။ Browser settings မှာ HTTPS-only mode ဖွင့်ထားပါ။ Encryption demo ကို ပြပြီး encryption ဘယ်လို အလုပ်လုပ်လဲ ရှင်းပြပါ။
+-->
+
+---
 layout: center
 ---
 

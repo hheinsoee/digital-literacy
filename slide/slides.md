@@ -22,7 +22,7 @@ mdc: true
 
 <div class="mt-4 text-sm opacity-60">
 
-[www.heinsoe.com](https://www.heinsoe.com)
+by **Hein Soe** | [www.heinsoe.com](https://www.heinsoe.com)
 
 </div>
 

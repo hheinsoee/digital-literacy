@@ -572,6 +572,181 @@ ISP နဲ့ network provider ဘာတွေ မြင်နိုင်လဲ
 -->
 
 ---
+
+# 7. Unknown Publisher Software
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+### 🚨 Warning Signs
+
+<v-clicks>
+
+- ⚠️ **"Unknown Publisher"** warning when installing
+- ⚠️ Downloaded from **random websites**, not official stores
+- ⚠️ App asks for **unnecessary permissions** (camera, contacts, SMS)
+- ⚠️ **"Cracked"** or **"Free Premium"** versions of paid software
+- ⚠️ File ends in `.exe`, `.apk` sent via **Messenger/Viber**
+
+</v-clicks>
+
+</div>
+<div>
+
+### ✅ Safe Practices
+
+<v-clicks>
+
+- Download only from **Google Play Store** or **App Store**
+- Check **reviews and download count** before installing
+- Never install apps from **unknown links**
+- If Windows shows **"Unknown Publisher"** → **Don't install**
+- Use **VirusTotal.com** to scan suspicious files
+
+</v-clicks>
+
+</div>
+</div>
+
+<!--
+Unknown Publisher software — Install လုပ်တဲ့အခါ "Unknown Publisher" warning ပြရင် မသွင်းပါနဲ့။ Official store (Google Play, App Store) ကနေပဲ download လုပ်ပါ။ Random website တွေကနေ download လုပ်တာ အန္တရာယ်ရှိပါတယ်။ Cracked software တွေမှာ virus, malware ပါနိုင်ပါတယ်။ Messenger/Viber ကနေ .exe, .apk file ပို့ရင် မဖွင့်ပါနဲ့။ VirusTotal.com မှာ file ကို scan လုပ်နိုင်ပါတယ်။
+-->
+
+---
+
+# What Happens When You Install Malware?
+
+<v-clicks>
+
+1. 📥 You download a **"free"** app or cracked software
+2. 🔓 You click **"Install Anyway"** ignoring the warning
+3. 🕵️ The malware runs **silently in the background**
+4. 📤 It can:
+   - **Steal** your passwords, banking info, photos
+   - **Record** your screen and keystrokes
+   - **Send** your contacts spam messages
+   - **Install** more malware without your knowledge
+   - **Lock** your files → **Ransomware**
+
+</v-clicks>
+
+<v-click>
+
+> **One wrong click can compromise your entire digital life.**
+
+</v-click>
+
+<!--
+Malware install လုပ်မိရင် ဘာဖြစ်မလဲ — Free app သို့မဟုတ် cracked software download လုပ်ပါတယ်။ Warning ကို ignore လုပ်ပြီး install လုပ်ပါတယ်။ Malware က background မှာ တိတ်တဆိတ် run ပါတယ်။ Password, banking info, ဓာတ်ပုံတွေ ခိုးနိုင်ပါတယ်။ Screen နဲ့ keyboard ရိုက်တာတွေ record လုပ်နိုင်ပါတယ်။ Contact list ကို spam message ပို့နိုင်ပါတယ်။ နောက်ထပ် malware ထပ်သွင်းနိုင်ပါတယ်။ File တွေ lock လုပ်ပြီး ငွေတောင်းနိုင်ပါတယ် — ဒါက Ransomware ပါ။
+-->
+
+---
+
+# 8. Ransomware — Your Files Held Hostage
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+### What is Ransomware?
+
+<v-clicks>
+
+- Malware that **encrypts ALL your files**
+- Documents, photos, videos → **locked** 🔒
+- Demands **payment** (usually cryptocurrency) to unlock
+- Even if you pay → **no guarantee** files come back
+- Can spread to **other devices** on the same network
+
+</v-clicks>
+
+</div>
+<div>
+
+### How It Spreads
+
+<v-clicks>
+
+- 📧 **Email attachments** — fake invoices, job offers
+- 💬 **Messenger/Viber links** — "Look at this photo!"
+- 📥 **Cracked software** — free games, premium apps
+- 🔌 **USB drives** — borrowed from unknown people
+- 🌐 **Malicious websites** — fake download buttons
+
+</v-clicks>
+
+</div>
+</div>
+
+<!--
+Ransomware ဆိုတာ ဘာလဲ — Malware တစ်မျိုးပါ။ ကိုယ့် file အားလုံးကို encrypt လုပ်ပြီး lock ချပါတယ်။ Document, ဓာတ်ပုံ, video အားလုံး ဖွင့်လို့မရတော့ပါဘူး။ ပြန်ဖွင့်ချင်ရင် ငွေပေးပါ လို့ တောင်းပါတယ်။ ငွေပေးလည်း file ပြန်ရမယ့် guarantee မရှိပါဘူး။ Network ထဲက တခြား device တွေကိုလည်း ကူးစက်နိုင်ပါတယ်။ ဘယ်လို ကူးစက်လဲ — email attachment, Messenger/Viber link, cracked software, USB drive, fake download button တွေကနေ ကူးစက်ပါတယ်။
+-->
+
+---
+
+# Real Ransomware Attack Screen
+
+<div class="text-center mt-4">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║          🔒 YOUR FILES HAVE BEEN ENCRYPTED 🔒        ║
+║                                                      ║
+║  All your documents, photos, and videos are locked.  ║
+║                                                      ║
+║  To recover your files, send $500 in Bitcoin to:     ║
+║  bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh        ║
+║                                                      ║
+║  You have 72 hours. After that, files are deleted.   ║
+║                                                      ║
+║            ⏰ Time remaining: 71:42:18               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<v-click>
+
+<div class="mt-4 text-xl text-center text-red-400 font-bold">
+
+This is what victims see. Don't let it be you.
+
+</div>
+
+</v-click>
+
+<!--
+ဒါက ransomware attack ခံရတဲ့သူတွေ မြင်ရတဲ့ screen ပါ။ File အားလုံး encrypt ဖြစ်သွားပါပြီ၊ Bitcoin နဲ့ $500 ပို့ပါ လို့ တောင်းပါတယ်။ ၇၂ နာရီအတွင်း မပို့ရင် file တွေ ဖျက်ပစ်မယ် လို့ ခြိမ်းခြောက်ပါတယ်။ ဒါကို ကြောက်စေချင်လို့ မဟုတ်ပါဘူး — သတိထားစေချင်လို့ပါ။ ကာကွယ်နည်းတွေ ပြောပြပါမယ်။
+-->
+
+---
+
+# 🛡️ How to Protect Against Ransomware
+
+<v-clicks>
+
+- 💾 **Backup regularly** — Google Drive, external hard drive (3-2-1 rule)
+  - 3 copies, 2 different media, 1 offsite
+- 🚫 **Never open suspicious attachments** — even from friends (accounts get hacked)
+- 📥 **Only install from official sources** — Google Play, App Store, official websites
+- 🔄 **Keep software updated** — updates fix security holes
+- 🛡️ **Use antivirus** — Windows Defender is free and good enough
+- 💰 **Never pay the ransom** — no guarantee, funds more attacks
+
+</v-clicks>
+
+<v-click>
+
+> **Backup is your best insurance. If you have a backup, ransomware can't hurt you.**
+
+</v-click>
+
+<!--
+Ransomware ကနေ ဘယ်လို ကာကွယ်မလဲ — ပုံမှန် backup လုပ်ပါ (Google Drive, external hard drive)။ 3-2-1 rule — copy ၃ ခု၊ media ၂ မျိုး၊ offsite ၁ ခု။ သံသယဖြစ်ဖွယ် attachment မဖွင့်ပါနဲ့ — သူငယ်ချင်းဆီကဆိုလည်း account hack ခံရတာ ဖြစ်နိုင်ပါတယ်။ Official source ကနေပဲ install လုပ်ပါ။ Software update ပုံမှန် လုပ်ပါ။ Antivirus သုံးပါ — Windows Defender က free ဖြစ်ပြီး ကောင်းပါတယ်။ Ransom ငွေ မပေးပါနဲ့ — file ပြန်ရမယ့် guarantee မရှိပါဘူး။ Backup ရှိရင် ransomware က ဘာမှ မလုပ်နိုင်ပါဘူး။
+-->
+
+---
 layout: center
 ---
 

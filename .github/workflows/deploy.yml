@@ -19,15 +19,20 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: pnpm/action-setup@v4
+        with:
+          run_install: false
       - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: pnpm
+          cache-dependency-path: slide/pnpm-lock.yaml
       - run: pnpm install
+        working-directory: slide
       - run: pnpm run build:gh
+        working-directory: slide
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: slide/dist
 
   deploy:
     needs: build

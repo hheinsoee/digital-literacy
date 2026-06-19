@@ -36,7 +36,7 @@ transition: fade-out
 | 35 min | Session 1: What is Digital Literacy? |
 | 40 min | Session 2: Must-Have Apps & Tools |
 | 15 min | ☕ Break |
-| 35 min | Session 3: Digital Safety & Security |
+| 35 min | Session 3: Digital Safety & Security + Phishing Demo |
 | 40 min | Session 4: Tech Trends + Telegram Bot |
 | 20 min | Reflection & Closing |
 
@@ -411,6 +411,41 @@ A **second lock** on your account beyond your password
 Phishing နဲ့ Scam — အန္တရာယ်လက္ခဏာတွေကို သိအောင်ပြပါ။ အရေးတကြီး ခြိမ်းခြောက်တဲ့ message တွေ၊ မသိတဲ့သူဆီက link ပါ message တွေ၊ URL ကို သေသေချာချာ ကြည့်ရပါမယ်။ facebook.com နဲ့ faceb00k.com ကွာခြားချက်ကို ပြပါ။ Page design က အတူတူ ဖြစ်နိုင်ပေမယ့် URL က မတူပါဘူး။ URL ကို အမြဲစစ်ပါ။
 -->
 
+
+---
+layout: center
+---
+
+# 🔴 Live Demo: Phishing in Action
+
+<div class="text-xl max-w-2xl mx-auto mb-8">
+
+Let's see how a **real phishing page** looks — can you tell it's fake?
+
+</div>
+
+<v-clicks>
+
+1. Open the demo link on the projector
+2. See the **fake Google login** — looks identical to the real one
+3. See the **fake Facebook login** — same design, different URL
+4. Enter fake credentials → see what an attacker captures
+
+</v-clicks>
+
+<v-click>
+
+<div class="mt-8 text-2xl font-bold text-red-400">
+
+⚠️ The URL is the only difference — always check it!
+
+</div>
+
+</v-click>
+
+<!--
+Live Demo — Phishing demo project ကို ဖွင့်ပြပါ။ /google နဲ့ /facebook page တွေကို ပြပါ။ တကယ့် login page တွေနဲ့ ဘယ်လောက်တူလဲ ပြပါ။ Fake credentials ထည့်ပြီး ဘာတွေ capture ဖြစ်သွားလဲ ပြပါ။ URL ကိုပဲ ကြည့်ရင် ခွဲခြားလို့ရပါတယ် ဆိုတာ ပြပါ။ captured-logs.txt ဖိုင်ထဲမှာ credentials တွေ record ဖြစ်သွားတာကို ပြပါ။ ဒါကြောင့် URL ကို အမြဲစစ်ဆေးပါ။
+-->
 ---
 
 # 4. Privacy & Digital Footprint

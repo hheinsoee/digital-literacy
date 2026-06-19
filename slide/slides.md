@@ -8,6 +8,8 @@ drawings:
 transition: slide-left
 title: Digital Literacy Training
 mdc: true
+download: false
+exportFilename: digital-literacy-slides
 ---
 
 # Digital Literacy သင်တန်း

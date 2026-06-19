@@ -10,13 +10,13 @@ title: Digital Literacy Training
 mdc: true
 ---
 
-# Digital Literacy သင်တန်း
+# Digital Literacy Training
 
-### ပညာရေး၊ ကျွမ်းကျင်မှုဖွံ့ဖြိုးရေးနှင့် အလုပ်အကိုင်အတွက် Digital Tools များ အသုံးပြုခြင်း
+### Using Digital Tools for Education, Skills Development & Employment
 
 <div class="pt-12">
   <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    အသက် ၁၈-၃၅ | ၃ နာရီ | Interactive Workshop
+    Age 18-35 | 3 Hours | Interactive Workshop
   </span>
 </div>
 
@@ -34,17 +34,17 @@ by **Hein Soe** | [www.heinsoe.com](https://www.heinsoe.com)
 transition: fade-out
 ---
 
-# အစီအစဉ်
+# Agenda
 
-| အချိန် | အကြောင်းအရာ |
+| Time | Session |
 |------|---------|
-| ၁၅ မိနစ် | ဖွင့်ပွဲနှင့် Icebreaker |
-| ၂၀ မိနစ် | Session 1: Digital Literacy ဆိုတာ ဘာလဲ? |
-| ၄၅ မိနစ် | Session 2: မရှိမဖြစ် Apps, Tools နှင့် Career |
-| ၁၅ မိနစ် | ☕ အနားယူချိန် |
-| ၅၅ မိနစ် | Session 3: Digital Safety & Security + Phishing Demo |
-| ၂၅ မိနစ် | Session 4: Tech Trends + Telegram Bot |
-| ၁၅ မိနစ် | ပြန်လည်သုံးသပ်ခြင်းနှင့် ပိတ်ပွဲ |
+| 15 min | Opening & Icebreaker |
+| 20 min | Session 1: What is Digital Literacy? |
+| 45 min | Session 2: Must-Have Apps, Tools & Career |
+| 15 min | ☕ Break |
+| 55 min | Session 3: Digital Safety & Security + Phishing Demo |
+| 25 min | Session 4: Tech Trends + Telegram Bot |
+| 15 min | Reflection & Closing |
 
 <!--
 ဒီနေ့ အချိန်ဇယားကို အတူတူ ကြည့်ရအောင်။ Session ၄ ခုရှိပါတယ်။ တစ်ခုနဲ့တစ်ခုကြားမှာ break ပါ ပါတယ်။ မေးခွန်းရှိရင် အချိန်မရွေး မေးနိုင်ပါတယ်။
@@ -54,7 +54,7 @@ transition: fade-out
 layout: center
 ---
 
-# Icebreaker (၁၅ မိနစ်)
+# Icebreaker (15 min)
 ## Digital Check-In
 
 <!--
@@ -63,17 +63,17 @@ layout: center
 
 ---
 
-# 🙋 သင့်အကြောင်း ပြောပြပါ
+# 🙋 Let's Start With You
 
 <v-clicks>
 
-- **နေ့တိုင်း ဘယ် app တွေ သုံးပါသလဲ?**
+- **Which apps do you use every day?**
   - Viber? Facebook? TikTok? YouTube?
 
-- **Internet ကို ဘာအတွက် အများဆုံး သုံးပါသလဲ?**
-  - ဖျော်ဖြေရေး? သတင်း? လေ့လာရေး? အလုပ်?
+- **What do you use the internet for most?**
+  - Entertainment? News? Learning? Work?
 
-- **Online ကနေ skill အသစ် သင်ယူဖူးပါသလား?**
+- **Have you ever learned a new skill online?**
   - YouTube tutorials? Online courses?
 
 </v-clicks>
@@ -86,8 +86,8 @@ layout: center
 layout: center
 ---
 
-# Session 1 (၂၀ မိနစ်)
-## Digital Literacy ဆိုတာ ဘာလဲ? ဘာကြောင့် အရေးကြီးလဲ?
+# Session 1 (20 min)
+## What is Digital Literacy and Why Does It Matter?
 
 <!--
 Session 1 စလိုက်ကြရအောင်။ Digital Literacy ဆိုတာ ဘာလဲ၊ ဘာကြောင့် အရေးကြီးလဲ ဆိုတာ ဆွေးနွေးကြမယ်။
@@ -95,19 +95,19 @@ Session 1 စလိုက်ကြရအောင်။ Digital Literacy ဆိ�
 
 ---
 
-# Digital Literacy ဆိုတာ ဘာလဲ?
+# What is Digital Literacy?
 
-Digital technology တွေကို ထိရောက်စွာ၊ **လုံခြုံစွာ**နှင့် **တာဝန်သိစွာ** အသုံးပြုနိုင်သော **စွမ်းရည်**
+The ability to use digital technologies **effectively**, **safely**, and **responsibly**
 
 <v-clicks>
 
-### အဓိက နယ်ပယ် ၅ ခု
+### 5 Key Areas
 
-1. **သတင်းအချက်အလက် ရှာဖွေခြင်း** — online မှ သတင်းအချက်အလက်များ ရှာဖွေခြင်း၊ အကဲဖြတ်ခြင်း၊ အသုံးပြုခြင်း
-2. **ဆက်သွယ်ခြင်းနှင့် ပူးပေါင်းလုပ်ဆောင်ခြင်း** — email, messaging, video calls
-3. **Digital Problem-Solving** — နေ့စဉ် စိန်ခေါ်မှုများကို tech ဖြင့် ဖြေရှင်းခြင်း
-4. **Online Learning** — courses, tutorials, ကိုယ့်ဘာသာ လေ့လာခြင်း
-5. **Digital Safety** — ကိုယ့်ကိုယ်ကိုနှင့် ကိုယ့် data ကို ကာကွယ်ခြင်း
+1. **Accessing Information** — searching, evaluating, using online info
+2. **Communication & Collaboration** — email, messaging, video calls
+3. **Digital Problem-Solving** — using tech to solve everyday challenges
+4. **Online Learning** — courses, tutorials, self-paced education
+5. **Digital Safety** — protecting yourself and your data
 
 </v-clicks>
 
@@ -117,21 +117,21 @@ Digital Literacy ဆိုတာ digital technology တွေကို ထိရ
 
 ---
 
-# ၂၀၂၆ မှာ ဘာကြောင့် အရေးကြီးလဲ?
+# Why Does It Matter in 2026?
 
 <v-clicks>
 
-- 💼 **အလုပ်အကိုင်ဈေးကွက်** — အလုပ်ရှင်အများစုက basic digital skills လိုအပ်ပါတယ်
-- 🌍 **ကမ္ဘာလုံးဆိုင်ရာ အခွင့်အလမ်းများ** — remote work, freelancing, online business
-- 📚 **ပညာရေး အခွင့်အလမ်း** — အခမဲ့ learning platforms များ ၂၄ နာရီ ရနိုင်ပါတယ်
-- 💰 **ငွေကြေးဆိုင်ရာ ပါဝင်နိုင်မှု** — mobile banking, digital payments
-- 🤖 **AI Revolution** — လိုက်လျောညီထွေ ဖြစ်သူတွေ အောင်မြင်မယ်
+- 💼 **Job Market** — most employers require basic digital skills
+- 🌍 **Global Opportunities** — remote work, freelancing, online business
+- 📚 **Education Access** — free learning platforms available 24/7
+- 💰 **Financial Inclusion** — mobile banking, digital payments
+- 🤖 **AI Revolution** — those who adapt will thrive
 
 </v-clicks>
 
 <v-click>
 
-> "သင့်မှာ digital skills တွေ ရှိပြီးသားပါ — နေ့တိုင်း Viber, Facebook, TikTok သုံးနေတာပဲ။ ဒီနေ့ အဲဒီ skills တွေကို ပညာရေးနှင့် career အတွက် **level up** လုပ်ကြမယ်။"
+> "You already have digital skills — you use Viber, Facebook, TikTok every day. Today we'll **level up** those skills for education and career."
 
 </v-click>
 
@@ -141,17 +141,17 @@ Digital Literacy ဆိုတာ digital technology တွေကို ထိရ
 
 ---
 
-# အဖွဲ့လိုက် ဆွေးနွေးခြင်း
+# Group Discussion
 
 <div class="text-2xl text-center mt-20">
 
-**"Digital skills တွေက လူငယ်တွေရဲ့ အနာဂတ် အခွင့်အလမ်းတွေကို ဘယ်လို တိုးတက်စေနိုင်မလဲ?"**
+**"How can digital skills help youth improve their future opportunities?"**
 
 </div>
 
 <div class="text-center mt-10 text-gray-400">
 
-အဖွဲ့လိုက် ၁၀ မိနစ် ဆွေးနွေးပြီး သင့်အကြံဉာဏ်များ မျှဝေပါ
+Discuss in groups for 10 minutes, then share your ideas
 
 </div>
 
@@ -163,8 +163,8 @@ Group ခွဲပြီး ဆွေးနွေးခိုင်းပါ —
 layout: center
 ---
 
-# Session 2 (၄၅ မိနစ်)
-## မရှိမဖြစ် App များ၊ Tool များနှင့် အသက်မွေးဝမ်းကျောင်း
+# Session 2 (45 min)
+## Must-Have Apps, Tools & Career
 
 <!--
 Session 2 — မရှိမဖြစ် လိုအပ်တဲ့ app တွေနဲ့ tool တွေအကြောင်း ပြောကြမယ်။ တက်ရောက်သူတွေ ဖုန်းထဲမှာ ဘယ် app တွေ ရှိပြီးသားလဲ မေးကြည့်ပါ။
@@ -172,19 +172,19 @@ Session 2 — မရှိမဖြစ် လိုအပ်တဲ့ app တွ
 
 ---
 
-# ဆက်သွယ်ခြင်းနှင့် ပူးပေါင်းလုပ်ဆောင်ခြင်း
+# Communication & Collaboration
 
-| App | ရည်ရွယ်ချက် | ဘာကြောင့် အရေးကြီးလဲ |
+| App | Purpose | Why Essential |
 |-----|---------|---------------|
-| **Telegram** | စာပို့ခြင်း, bot များ, channel များ | Privacy ကောင်း, bot ecosystem |
-| **Google Workspace** | Gmail, Docs, Sheets, Drive | အခမဲ့, ပူးပေါင်းလုပ်ဆောင်နိုင်, အလုပ်ခွင် standard |
-| **Zoom / Google Meet** | Video meeting များ | Remote work နှင့် interview များ |
-| **Slack / Discord** | Team ဆက်သွယ်ရေး | Tech နှင့် community standard |
+| **Telegram** | Messaging, bots, channels | Privacy-focused, bot ecosystem |
+| **Google Workspace** | Gmail, Docs, Sheets, Drive | Free, collaborative, job standard |
+| **Zoom / Google Meet** | Video meetings | Remote work & interviews |
+| **Slack / Discord** | Team communication | Tech & community standard |
 
 <v-click>
 
-### 💡 အကြံပြုချက်
-Gmail က professional ဆက်သွယ်ရေးအတွက် standard ဖြစ်ပါတယ်။ Hotmail သို့မဟုတ် Yahoo account ပဲ ရှိသေးရင်၊ ဒီနေ့ Gmail ဖွင့်ပါ။
+### 💡 Pro Tip
+Gmail is the standard for professional communication. If you only have a Hotmail or Yahoo account, create a Gmail today.
 
 </v-click>
 
@@ -194,20 +194,21 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 ---
 
-# သင်ယူခြင်းနှင့် ကျွမ်းကျင်မှု ဖွံ့ဖြိုးရေး
+# Learning & Skill Development
 
-| App | ရည်ရွယ်ချက် |
+| App | Purpose |
 |-----|---------|
-| **YouTube** | အခမဲ့ သင်ခန်းစာများ — coding, design, ဘာသာစကား, ဘာမဆို |
-| **Coursera / Udemy** | Certificate ပါ structured course များ |
-| **Duolingo** | ဘာသာစကား သင်ယူခြင်း (အခမဲ့, gamified) |
-| **Khan Academy** | အခမဲ့ ပညာရေး — သင်္ချာ, သိပ္ပံ, computing |
-| **ChatGPT / Claude AI** | သင်ယူခြင်း, ရေးသားခြင်း, coding အတွက် AI assistant |
+| **YouTube** | Free tutorials — coding, design, language, anything |
+| **Coursera / Udemy** | Structured courses with certificates |
+| **Duolingo** | Language learning (free, gamified) |
+| **Khan Academy** | Free education — math, science, computing |
+| **ChatGPT / Claude AI** | AI assistant for learning, writing, coding |
 
 <v-click>
 
-### 💡 Coursera မှာ course အများစု **free audit mode** ရှိပါတယ်
-ငွေမပေးပဲ သင်ယူနိုင်ပါတယ် — certificate ပဲ မရတာပါ
+### 💡 Many courses on Coursera offer **free audit mode**
+You can learn without paying — you just don't get the certificate
+
 </v-click>
 
 <!--
@@ -216,14 +217,14 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 ---
 
-# အလုပ်ရှာဖွေရေးနှင့် အသက်မွေးဝမ်းကျောင်း
+# Job Search & Career
 
-| App | ရည်ရွယ်ချက် |
+| App | Purpose |
 |-----|---------|
-| **LinkedIn** | Professional networking နှင့် အလုပ်ရှာဖွေခြင်း |
-| **Canva** | CV ဒီဇိုင်း, portfolio, social media ဂရပ်ဖစ် |
-| **Notion / Google Keep** | ကိုယ်ပိုင် organize လုပ်ခြင်းနှင့် မှတ်စုများ |
-| **GitHub** | Code portfolio (tech စိတ်ဝင်စားသူများအတွက်) |
+| **LinkedIn** | Professional networking & job search |
+| **Canva** | CV design, portfolio, social media graphics |
+| **Notion / Google Keep** | Personal organization & notes |
+| **GitHub** | Code portfolio (tech-interested participants) |
 
 <!--
 အလုပ်ရှာဖွေရေးအတွက် — LinkedIn က professional networking နဲ့ job search အတွက် အရေးအကြီးဆုံးပါ။ Canva နဲ့ CV ဒီဇိုင်းလှလှ လုပ်နိုင်ပါတယ်။ Notion/Google Keep နဲ့ organize လုပ်နိုင်ပါတယ်။ Tech ပိုင်းစိတ်ဝင်စားတဲ့သူတွေအတွက် GitHub profile ရှိသင့်ပါတယ်။
@@ -231,24 +232,24 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 ---
 
-# 🚀 မြန်မာနိုင်ငံမှာ အလုပ် ဘယ်မှာ ရှာမလဲ
+# 🚀 Where to Find Jobs in Myanmar
 
 <v-clicks>
 
-| Platform | အမျိုးအစား | Link |
+| Platform | Type | Link |
 |----------|------|------|
-| **MyJobs.com.mm** | မြန်မာနိုင်ငံ အကြီးဆုံး job portal | myjobs.com.mm |
-| **JobNet.com.mm** | Industry အားလုံးမှ အလုပ်များ | jobnet.com.mm |
-| **LinkedIn** | Professional networking + global အလုပ်များ | linkedin.com |
-| **Facebook Groups** | "Jobs in Yangon", "Myanmar Job" group များ | Facebook မှာ ရှာပါ |
+| **MyJobs.com.mm** | Myanmar's largest job portal | myjobs.com.mm |
+| **JobNet.com.mm** | Jobs across all industries | jobnet.com.mm |
+| **LinkedIn** | Professional networking + global jobs | linkedin.com |
+| **Facebook Groups** | "Jobs in Yangon", "Myanmar Job" groups | Search on Facebook |
 | **Upwork / Fiverr** | Freelance work — design, writing, translation | upwork.com / fiverr.com |
-| **Telegram Channels** | မြန်မာနိုင်ငံ job alert channel များ | "Myanmar Jobs" ရှာပါ |
+| **Telegram Channels** | Job alert channels in Myanmar | Search "Myanmar Jobs" |
 
 </v-clicks>
 
 <v-click>
 
-### 💡 **Professional Gmail** နဲ့ အမြဲ apply လုပ်ပါ — `cutegirl123@gmail.com` မသုံးပါနဲ့
+### 💡 Always apply with a **professional Gmail** — not `cutegirl123@gmail.com`
 
 </v-click>
 
@@ -258,24 +259,24 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 ---
 
-# 💼 ဘွဲ့မလိုသော Career လမ်းကြောင်းများ
+# 💼 Career Pathways — No Degree Required
 
 <v-clicks>
 
-| နယ်ပယ် | အခမဲ့ သင်ယူရန် | Entry အလုပ်များ |
+| Field | Free Learning | Entry Jobs |
 |-------|---------------|------------|
 | **Digital Marketing** | Google Digital Garage (free certificate) | Social media manager, content creator |
 | **Graphic Design** | Canva Design School, YouTube | Freelance designer, print shop |
 | **Data Entry / Admin** | Google Sheets, Typing practice | Office assistant, data entry clerk |
-| **Translation** | English ↔ Myanmar လေ့ကျင့်ခြင်း | Freelance translator (Upwork/Fiverr) |
-| **Customer Service** | ဆက်သွယ်ရေး ကျွမ်းကျင်မှု | Call center, online support |
-| **Basic IT / Tech Support** | Google IT Support Certificate (Coursera) | IT support, ဖုန်းပြင်ခြင်း |
+| **Translation** | Practice English ↔ Myanmar | Freelance translator (Upwork/Fiverr) |
+| **Customer Service** | Communication skills | Call center, online support |
+| **Basic IT / Tech Support** | Google IT Support Certificate (Coursera) | IT support, phone repair |
 
 </v-clicks>
 
 <v-click>
 
-> **ဘွဲ့ မလိုပါဘူး — skill တစ်ခုနှင့် portfolio လိုပါတယ်။ ဒီနေ့ပဲ စတည်ဆောက်ပါ။**
+> **You don't need a degree — you need a skill + a portfolio. Start building today.**
 
 </v-click>
 
@@ -285,7 +286,7 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 ---
 
-# 🎓 အလုပ်ရှင်များ တန်ဖိုးထားသော Free Certificate များ
+# 🎓 Free Certificates That Employers Value
 
 <v-clicks>
 
@@ -302,7 +303,7 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 
 <div class="mt-4 text-center text-xl">
 
-📱 **ဒါတွေ အားလုံး ဖုန်းကနေ လုပ်နိုင်ပါတယ်** — computer မလိုပါဘူး
+📱 **All of these can be done from your phone** — no computer needed
 
 </div>
 
@@ -316,28 +317,29 @@ Gmail က professional ဆက်သွယ်ရေးအတွက် standard �
 layout: center
 ---
 
-# 🧭 NaviGo — သင့် AI Career Coach
+# 🧭 NaviGo — Your AI Career Coach
 
 <div class="text-xl max-w-2xl mx-auto mb-8">
 
-မြန်မာနိုင်ငံ ပထမဆုံး **AI career navigation bot** — အခမဲ့, မြန်မာဘာသာ ဦးစားပေး, Telegram မှာ ရနိုင်ပါတယ်။
+Myanmar's first **AI-powered career navigation bot** — free, Burmese-first, on Telegram.
 
 </div>
 
 <v-clicks>
 
-- 🔍 **Resource ၃၁၉+** — အလုပ်များ, training center များ, learning material များ တစ်နေရာတည်းမှာ
-- 🤖 **AI Career Coach** — မြန်မာလို ပြောနိုင်, ၂၄ နာရီ ရနိုင်, အခမဲ့
-- 💼 **အလုပ်စာရင်းများ** — အရင်းအမြစ် ရာပေါင်းများစွာမှ စုစည်းထားသည်
-- 🎓 **Training center များ** — ရန်ကုန်မှာ သင့်အနီး အခမဲ့ course များ ရှာပါ
-- 📱 **App install မလို** — Telegram ထဲမှာ run ပါတယ်, သင့်ဖုန်းထဲမှာ ရှိပြီးသား
+- 🔍 **319+ resources** — jobs, training centers, learning materials in one place
+- 🤖 **AI Career Coach** — speaks Burmese, available 24/7, free
+- 💼 **Job listings** — aggregated from hundreds of sources
+- 🎓 **Training centers** — find free courses near you in Yangon
+- 📱 **No app install** — runs inside Telegram, already on your phone
+
 </v-clicks>
 
 <v-click>
 
 <div class="mt-8 text-center">
 
-### 👉 Telegram ဖွင့်ပါ → **@NaviGoMMBot** ရှာပါ → စပြောလိုက်ပါ
+### 👉 Open Telegram → Search **@NaviGoMMBot** → Start chatting
 
 **[www.navi-go.org](https://www.navi-go.org)**
 
@@ -351,23 +353,23 @@ NaviGo ကို မိတ်ဆက်ပါ — Myanmar ရဲ့ ပထမဆ�
 
 ---
 
-# ငွေကြေးနှင့် နေ့စဉ်ဘဝ
+# Finance & Daily Life
 
-| App | ရည်ရွယ်ချက် |
+| App | Purpose |
 |-----|---------|
-| **KBZPay / Wave** | Mobile banking နှင့် ငွေပေးချေခြင်း |
-| **Google Maps** | လမ်းညွှန်ခြင်းနှင့် တည်နေရာ မျှဝေခြင်း |
-| **Google Translate** | ဘာသာစကား အခက်အခဲကို ချက်ချင်း ဖြေရှင်းပါ |
+| **KBZPay / Wave** | Mobile banking & payments |
+| **Google Maps** | Navigation & location sharing |
+| **Google Translate** | Break language barriers instantly |
 
 <v-click>
 
-### အနှစ်ချုပ်: သင့် Digital Toolkit
+### Quick Summary: Your Digital Toolkit
 
-✅ ဆက်သွယ်ရေး → **Gmail + Telegram**
-✅ သင်ယူရေး → **YouTube + Coursera + AI**
-✅ အသက်မွေးဝမ်းကျောင်း → **LinkedIn + Canva**
-✅ ငွေကြေး → **KBZPay/Wave**
-✅ နေ့စဉ် → **Google Maps + Translate**
+✅ Communication → **Gmail + Telegram**
+✅ Learning → **YouTube + Coursera + AI**
+✅ Career → **LinkedIn + Canva**
+✅ Finance → **KBZPay/Wave**
+✅ Daily → **Google Maps + Translate**
 
 </v-click>
 
@@ -379,18 +381,18 @@ NaviGo ကို မိတ်ဆက်ပါ — Myanmar ရဲ့ ပထမဆ�
 layout: center
 ---
 
-# လက်တွေ့: Digital CV Challenge
+# Activity: Digital CV Challenge
 
-### ၂ ယောက်တွဲ — ၁၀ မိနစ်
+### Work in pairs — 10 minutes
 
-1. ဖုန်းမှာ **Canva** ဖွင့်ပါ
-2. "Resume" သို့မဟုတ် "CV" template ရှာပါ
-3. သင့်နာမည်, skill များနှင့် အတွေ့အကြုံ ဖြည့်ပါ
-4. သင့် partner ကို feedback အတွက် မျှဝေပါ
+1. Open **Canva** on your phone
+2. Search for "Resume" or "CV" template
+3. Fill in your name, skills, and experience
+4. Share with your partner for feedback
 
 <div class="mt-8 text-gray-400">
 
-အကူအညီ လိုပါသလား? လက်ထောင်ပြပါ — သွားကူညီပါမယ်!
+Need help? Raise your hand — we'll come to you!
 
 </div>
 
@@ -400,13 +402,13 @@ Activity အချိန်ပါ — ၂ ယောက်တွဲ လုပ်�
 
 ---
 
-# ပြန်သုံးသပ်ခြင်း
+# Debrief
 
 <v-clicks>
 
-- ဘာက **လွယ်ပါသလဲ**?
-- ဘာက **ခက်ပါသလဲ**?
-- ဒီနေ့ပြီးရင် ဘယ် tool ကို **စသုံးမလဲ**?
+- What was **easy**?
+- What was **difficult**?
+- Which tools will you **start using** after today?
 
 </v-clicks>
 
@@ -418,8 +420,8 @@ Activity ပြီးရင် ပြန်သုံးသပ်ပါ — ဘ�
 layout: center
 ---
 
-# Session 3 (၅၅ မိနစ်)
-## Digital လုံခြုံရေး
+# Session 3 (55 min)
+## Digital Safety & Security
 
 <!--
 Session 3 — Digital Safety နဲ့ Security အကြောင်း။ ဒီအပိုင်းက အရေးကြီးဆုံးပါ။ လက်တွေ့ဘဝမှာ ချက်ချင်း အသုံးချနိုင်ပါတယ်။
@@ -427,24 +429,24 @@ Session 3 — Digital Safety နဲ့ Security အကြောင်း။ ဒ�
 
 ---
 
-# ၁. Password လုံခြုံရေး
+# 1. Password Security
 
 <v-clicks>
 
-### အားနည်းသော vs အားကောင်းသော
+### Weak vs Strong
 
-| ❌ အားနည်း | ✅ အားကောင်း |
+| ❌ Weak | ✅ Strong |
 |---------|----------|
 | `password123` | `mYc@t-l0ves-f1sh!` |
 | `myanmar2024` | `Tr@vel-Moon-42-Jazz` |
-| သင့်မွေးနေ့ | အက္ခရာ ၁၂+ ၊ ရောစပ်ထားသော |
+| Your birthday | 12+ chars, mixed types |
 
-### စည်းမျဉ်းများ
+### Rules
 
-- **အက္ခရာ ၁၂+ လုံး** — ရှည်လေ = ခိုင်လေ
-- **ရောသုံးပါ** — အကြီး, အသေး, ဂဏန်း, သင်္ကေတ
-- **ထပ်မသုံးပါနဲ့** — တစ်ခု ပေါက်ကြားရင် အားလုံး ပွင့်သွားတယ်
-- **Password Manager သုံးပါ** — Bitwarden (free, open-source)
+- **12+ characters** — longer = stronger
+- **Mix it up** — uppercase, lowercase, numbers, symbols
+- **Never reuse** — one breach exposes everything
+- **Use a Password Manager** — Bitwarden (free, open-source)
 
 </v-clicks>
 
@@ -454,36 +456,36 @@ Password Security — အားနည်းတဲ့ password နဲ့ အာ�
 
 ---
 
-# ၂. Two-Factor Authentication (2FA)
+# 2. Two-Factor Authentication (2FA)
 
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-### ဘာလဲ?
+### What is it?
 
-Password အပြင် သင့် account ပေါ်က **ဒုတိယ သော့**
+A **second lock** on your account beyond your password
 
 <v-clicks>
 
-- Password ခိုးခံရလည်း → ဝင်လို့ မရသေးပါဘူး
-- Automated attack **၉၉%** ကို ပိတ်ဆို့နိုင်ပါတယ်
-- Setup လုပ်ရန် ၂ မိနစ်ပဲ ကြာပါတယ်
+- Someone steals your password → still can't get in
+- Blocks **99%** of automated attacks
+- Takes 2 minutes to set up
 
 </v-clicks>
 
 </div>
 <div>
 
-### 2FA အမျိုးအစားများ
+### Types of 2FA
 
 <v-clicks>
 
-| အမျိုးအစား | လုံခြုံရေး |
+| Type | Security |
 |------|----------|
-| SMS OTP | ⭐⭐ ကောင်း |
-| Google Authenticator | ⭐⭐⭐ ပိုကောင်း |
-| Authy | ⭐⭐⭐ ပိုကောင်း |
-| Hardware Key | ⭐⭐⭐⭐ အကောင်းဆုံး |
+| SMS OTP | ⭐⭐ Good |
+| Google Authenticator | ⭐⭐⭐ Better |
+| Authy | ⭐⭐⭐ Better |
+| Hardware Key | ⭐⭐⭐⭐ Best |
 
 </v-clicks>
 
@@ -492,7 +494,7 @@ Password အပြင် သင့် account ပေါ်က **ဒုတိယ 
 
 <v-click>
 
-### 🔴 Live Demo: Facebook/Gmail မှာ 2FA ကို ဖွင့်ကြည့်ရအောင်!
+### 🔴 Live Demo: Enable 2FA on Facebook/Gmail right now!
 
 </v-click>
 
@@ -502,20 +504,20 @@ Password အပြင် သင့် account ပေါ်က **ဒုတိယ 
 
 ---
 
-# ၃. Phishing နှင့် Scam ခွဲခြားသိခြင်း
+# 3. Phishing & Scam Recognition
 
 <v-clicks>
 
-### အန္တရာယ် လက္ခဏာများ 🚩
+### Red Flags 🚩
 
-- ⚠️ **အရေးပေါ် ရေသံ** — "Your account will be deleted in 24 hours!"
-- ⚠️ **မသိသော ပေးပို့သူ** — link ပါသော မသိသူများထံမှ message များ
-- ⚠️ **သံသယဖြစ်ဖွယ် URL** — address bar ကို သေချာ ကြည့်ပါ
-- ⚠️ **ယုံရခက်လောက်အောင် ကောင်းတယ်** — "You won $10,000!"
+- ⚠️ **Urgent tone** — "Your account will be deleted in 24 hours!"
+- ⚠️ **Unknown sender** — messages from strangers with links
+- ⚠️ **Suspicious URL** — look carefully at the address bar
+- ⚠️ **Too good to be true** — "You won $10,000!"
 
-### အတုကို ခွဲခြားပါ
+### Spot the Fake
 
-| အစစ် | အတု |
+| Real | Fake |
 |------|------|
 | `facebook.com` | `faceb00k.com` |
 | `gmail.com` | `gmai1.com` |
@@ -525,7 +527,7 @@ Password အပြင် သင့် account ပေါ်က **ဒုတိယ 
 
 <v-click>
 
-> **စည်းမျဉ်း: Page design ကို မကြည့်ပါနဲ့၊ URL ကို စစ်ပါ။ အတု page တွေက ပုံတူ ဖြစ်နေပါတယ်။**
+> **Rule: Check the URL, not the page design. Fake pages look identical.**
 
 </v-click>
 
@@ -538,20 +540,20 @@ Phishing နဲ့ Scam — အန္တရာယ်လက္ခဏာတွေ�
 layout: center
 ---
 
-# 🔴 Live Demo: Phishing လက်တွေ့ပြသခြင်း
+# 🔴 Live Demo: Phishing in Action
 
 <div class="text-xl max-w-2xl mx-auto mb-8">
 
-တကယ့် **phishing page** ဘယ်လို ပုံစံရှိလဲ ကြည့်ကြရအောင် — အတုလို့ ပြောနိုင်မလား?
+Let's see how a **real phishing page** looks — can you tell it's fake?
 
 </div>
 
 <v-clicks>
 
-1. Projector မှာ demo link ကို ဖွင့်ပါ
-2. **Fake Google login** ကို ကြည့်ပါ — တကယ့်ဟာနဲ့ ပုံစံတူပါတယ်
-3. **Fake Facebook login** ကို ကြည့်ပါ — design တူ, URL ကွာ
-4. Fake credentials ထည့်ပါ → attacker ဘာတွေ ရသွားလဲ ကြည့်ပါ
+1. Open the demo link on the projector
+2. See the **fake Google login** — looks identical to the real one
+3. See the **fake Facebook login** — same design, different URL
+4. Enter fake credentials → see what an attacker captures
 
 </v-clicks>
 
@@ -559,7 +561,7 @@ layout: center
 
 <div class="mt-8 text-2xl font-bold text-red-400">
 
-⚠️ URL ကသာ ကွာခြားချက် ဖြစ်ပါတယ် — အမြဲ စစ်ဆေးပါ!
+⚠️ The URL is the only difference — always check it!
 
 </div>
 
@@ -570,24 +572,25 @@ Live Demo — Phishing demo project ကို ဖွင့်ပြပါ။ /go
 -->
 ---
 
-# ၄. Privacy နှင့် Digital Footprint
+# 4. Privacy & Digital Footprint
 
 <v-clicks>
 
-- 📱 ဒီနေ့ပဲ **Facebook/TikTok privacy settings** ပြန်စစ်ပါ
-- 🔒 **Public နှင့် Private** account — ကွာခြားချက်ကို သိထားပါ
-- 🧠 **Post မတင်ခင် စဉ်းစားပါ** — internet က ဘယ်တော့မှ မမေ့ပါဘူး
-- 📍 **App permissions** — မလိုအပ်ရင် location, camera, contacts ပိတ်ထားပါ
+- 📱 Review your **Facebook/TikTok privacy settings** today
+- 🔒 **Public vs Private** accounts — know the difference
+- 🧠 **Think before you post** — the internet never forgets
+- 📍 **App permissions** — disable location, camera, contacts when not needed
+
 </v-clicks>
 
 <v-click>
 
-### ၅. Public WiFi အန္တရာယ်များ
+### 5. Public WiFi Risks
 
-- Free WiFi = data ခိုးယူခံရနိုင်ခြေ
-- Public WiFi မှာ banking **ဘယ်တော့မှ** မလုပ်ပါနဲ့
-- VPN သုံးပါ — **Proton VPN** မှာ free tier ရှိပါတယ်
-- သင့် mobile data က coffee shop WiFi ထက် ပိုလုံခြုံပါတယ်
+- Free WiFi = potential data interception
+- **Never** do banking on public WiFi
+- Use a VPN — **Proton VPN** has a free tier
+- Your mobile data is safer than coffee shop WiFi
 
 </v-click>
 
@@ -597,37 +600,38 @@ Privacy — Facebook/TikTok privacy settings ကို ဒီနေ့ပဲ ပ
 
 ---
 
-# ကိုယ်ရေးအချက်အလက် ဆိုတာ ဘာလဲ?
+# What is Personal Information?
 
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-### 🔴 အလွန်အရေးကြီး — Public မှာ ဘယ်တော့မှ မမျှဝေပါနဲ့
+### 🔴 Highly Sensitive — Never Share Publicly
 
 <v-clicks>
 
-- 🪪 **NRC / ID card နံပါတ်** နှင့် ဓာတ်ပုံများ
-- 🔑 **Password** နှင့် PIN များ
-- 🏦 **ဘဏ်အကောင့် / KBZPay / Wave** အသေးစိတ်
-- 📷 **ID selfie** (ID ကိုင်ထားတဲ့ ဓာတ်ပုံ)
-- 📋 **အိမ်ထောင်စုစာရင်း** စာရွက်စာတမ်းများ
+- 🪪 **NRC / ID card number** & photos
+- 🔑 **Passwords** & PINs
+- 🏦 **Bank account / KBZPay / Wave** details
+- 📷 **ID selfie** (photo holding your ID)
+- 📋 **Household registration** documents
+
 </v-clicks>
 
 </div>
 <div>
 
-### 🟡 အရေးကြီး — သတိထား၍ မျှဝေပါ
+### 🟡 Sensitive — Share With Caution
 
 <v-clicks>
 
-- 📱 **ဖုန်းနံပါတ်**
-- 📧 **Email လိပ်စာ**
-- 🏠 **နေရပ်လိပ်စာ**
-- 🎂 **မွေးနေ့**
-- 👨‍👩‍👧 **မိသားစုဝင်များ နာမည်**
-- 📍 **လက်ရှိ တည်နေရာ** (GPS, check-in များ)
-- 🏢 **အလုပ်အကိုင် နှင့် ရာထူး**
-- 📄 **CV / Resume** အပြည့်အစုံ
+- 📱 **Phone number**
+- 📧 **Email address**
+- 🏠 **Home address**
+- 🎂 **Date of birth**
+- 👨‍👩‍👧 **Family members' names**
+- 📍 **Current location** (GPS, check-ins)
+- 🏢 **Workplace & position**
+- 📄 **CV / Resume** with full details
 
 </v-clicks>
 
@@ -640,17 +644,17 @@ Personal information ဆိုတာ ဘာတွေလဲ — အဆင့် �
 
 ---
 
-# ကိုယ်ရေးအချက်အလက် ဘာကြောင့် Private ထားရမလဲ
+# Why Personal Info Must Stay Private
 
 <v-clicks>
 
-### 🚨 ရာဇ၀တ်ကောင်တွေ သင့် data နဲ့ ဘာလုပ်မလဲ
+### 🚨 What criminals do with YOUR data
 
-1. **Identity ခိုးယူခြင်း** — သင့်နာမည်, NRC, ဓာတ်ပုံ သုံးပြီး **fake account ဖန်တီးခြင်း**
-2. **Fake ဘဏ်အကောင့်** — သင့်နာမည်နဲ့ KBZPay/Wave account ဖွင့်ပြီး **ငွေခဝါချခြင်း**
-3. **Online လိမ်လည်မှု** — သင့်ဟန်ဆောင်ပြီး **သူငယ်ချင်း/မိသားစုကို လိမ်ခြင်း**
-4. **Fake စာရွက်စာတမ်း** — သင့်အချက်အလက်သုံးပြီး အတု ID, passport ဖန်တီးခြင်း
-5. **Internet ရာဇ၀တ်မှု** — fraud, မူးယစ်ဆေးရောင်း, hack — **ရဲက သင့်ဆီ လာမယ်**
+1. **Identity Theft** — use your name, NRC, photo to **create fake accounts**
+2. **Fake Bank Accounts** — open KBZPay/Wave accounts in YOUR name for **money laundering**
+3. **Online Scams** — impersonate you to **scam your friends & family**
+4. **Fake Documents** — create forged IDs, passports using your info
+5. **Internet Crimes** — commit fraud, sell drugs, hack others — **police come to YOU**
 
 </v-clicks>
 
@@ -660,17 +664,17 @@ Personal information ဆိုတာ ဘာတွေလဲ — အဆင့် �
 
 ---
 
-# Identity Crime တကယ့် ဥပမာများ
+# Real Examples of Identity Crime
 
 <v-clicks>
 
-| ဘာ ခိုးယူလဲ | ဘာ လုပ်လဲ | သင့် အန္တရာယ် |
+| What They Steal | What They Do | Your Risk |
 |----------------|-------------|-----------|
-| **နာမည် + NRC ဓာတ်ပုံ** | Fake ဘဏ်/mobile money account ဖွင့်ခြင်း | ငွေခဝါချမှု သင့်နာမည်နဲ့ ဖြစ်သွားခြင်း |
-| **ဖုန်းနံပါတ်** | တရားမ၀င် service များ register လုပ်ခြင်း | သင့်ဖုန်းနံပါတ်ကို ရဲစုံစမ်းခြင်း |
-| **Selfie + ID card** | Platform များမှာ verified account ဖွင့်ခြင်း | သင့် identity နဲ့ ရာဇ၀တ်မှု ကျူးလွန်ခြင်း |
-| **CV အပြည့်အစုံ** | Dark web မှာ သင့် data ရောင်းခြင်း | Targeted scam, blackmail |
-| **Email + password** | ချိတ်ဆက်ထားတဲ့ account အားလုံး ဝင်ခြင်း | Account အားလုံး သိမ်းပိုက်ခံရခြင်း |
+| **Name + NRC photo** | Open fake bank/mobile money accounts | Money laundering traced to you |
+| **Phone number** | Register for illegal services | Police investigation on your number |
+| **Selfie + ID card** | Create verified accounts on platforms | Crimes committed under your identity |
+| **CV with full details** | Sell your data on dark web | Targeted scams, blackmail |
+| **Email + password** | Access all linked accounts | Full account takeover |
 
 </v-clicks>
 
@@ -690,22 +694,22 @@ Personal information ဆိုတာ ဘာတွေလဲ — အဆင့် �
 
 ---
 
-# 🛡️ သင့် Identity ကို ကာကွယ်ပါ
+# 🛡️ Protect Your Identity
 
 <v-clicks>
 
-- 🚫 NRC/ID ဓာတ်ပုံ **Social media သို့မဟုတ် public group မှာ ဘယ်တော့မှ မတင်ပါနဲ့**
-- 🚫 ဖုန်းနံပါတ် + နာမည်အပြည့်အစုံကို public မှာ **ဘယ်တော့မှ မတင်ပါနဲ့**
-- 📧 **Email ၂ ခု သုံးပါ** — personal အတွက်နဲ့ job application အတွက် ခွဲပါ
-- 📄 **CV မှာ watermark ထည့်ပါ** — ပို့ခါနီး "[ကုမ္ပဏီနာမည်] Only" ဆိုပြီး ရေးပါ
-- 🔒 **Profile ကို Private ထားပါ** — မသိသူတွေ သင့်ဓာတ်ပုံနဲ့ အချက်အလက် မမြင်ရအောင်
-- ✅ **ကိုယ့်ကိုယ်ကို Google မှာ ရှာပါ** — သင့်နာမည်ကို ရှာပြီး ဘာတွေ public ဖြစ်နေလဲ ကြည့်ပါ
+- 🚫 **Never post NRC/ID photos** on social media or public groups
+- 🚫 **Never share** phone number + full name publicly together
+- 📧 **Use separate emails** — one for personal, one for job applications
+- 📄 **Watermark your CV** — add "For [Company Name] Only" before sending
+- 🔒 **Set profiles to Private** — don't let strangers see your photos & info
+- ✅ **Google yourself** — search your name and see what's publicly visible
 
 </v-clicks>
 
 <v-click>
 
-> **ကိုယ်ရေးအချက်အလက်က ပိုက်ဆံလိုပဲ တန်ဖိုးရှိပါတယ်။ ပိုက်ဆံလိုပဲ ကာကွယ်ပါ။**
+> **Your personal information is as valuable as money. Protect it the same way.**
 
 </v-click>
 
@@ -715,35 +719,35 @@ Personal information ဆိုတာ ဘာတွေလဲ — အဆင့် �
 
 ---
 
-# ၆. HTTPS ဘာကြောင့် အရေးကြီးလဲ
+# 6. Why HTTPS Matters
 
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-### ❌ HTTP (မလုံခြုံ)
+### ❌ HTTP (Not Secure)
 
 <v-clicks>
 
-- Data ကို **plain text** အနေနဲ့ ပို့ပါတယ်
-- ISP က သင်ရိုက်တာ **အားလုံး** ဖတ်နိုင်ပါတယ်
-- Network provider က သင့် **password, message, search** တွေ မြင်နိုင်ပါတယ်
-- WiFi တစ်ခုတည်းမှာ ရှိတဲ့သူတိုင်း ကြားဖြတ်နိုင်ပါတယ်
-- **Postcard** ပေးပို့သလိုပါပဲ — လူတိုင်း ဖတ်နိုင်ပါတယ်
+- Data sent as **plain text**
+- ISP can read **everything** you type
+- Network provider sees your **passwords, messages, searches**
+- Anyone on the same WiFi can intercept
+- Like sending a **postcard** — everyone can read it
 
 </v-clicks>
 
 </div>
 <div>
 
-### ✅ HTTPS (လုံခြုံ)
+### ✅ HTTPS (Secure)
 
 <v-clicks>
 
-- Data ကို ပို့ခါနီး **encrypt** လုပ်ပါတယ်
-- ISP က **ဘယ် website** သွားလဲ သိပေမယ့် **ဘာရိုက်ထည့်လဲ** မသိပါဘူး
-- Password, message, form data တွေ **ဝှက်ထားပါတယ်**
-- **သော့ခတ်ထားတဲ့ သေတ္တာ** ပို့သလိုပါပဲ — လက်ခံသူမှာသာ သော့ ရှိပါတယ်
-- URL bar မှာ 🔒 ရှိမရှိ ကြည့်ပါ
+- Data is **encrypted** before sending
+- ISP sees **which website** but NOT **what you type**
+- Passwords, messages, forms are **hidden**
+- Like sending a **locked box** — only the receiver has the key
+- Look for 🔒 in the URL bar
 
 </v-clicks>
 
@@ -756,25 +760,26 @@ HTTP နဲ့ HTTPS ကွာခြားချက် — HTTP မှာ data �
 
 ---
 
-# ISP နှင့် Network Provider ဘာတွေ မြင်နိုင်လဲ?
+# What Can Your ISP & Network See?
 
 | | HTTP | HTTPS |
 |---|------|-------|
-| **သင်ဝင်ကြည့်တဲ့ Website** | ✅ Yes | ✅ Yes (domain only) |
-| **သင်ကြည့်တဲ့ Page များ** | ✅ Yes | ❌ No |
-| **သင်ရိုက်ထည့်တဲ့ Password များ** | ✅ Yes | ❌ No |
-| **Form data (search, message)** | ✅ Yes | ❌ No |
-| **သင် download လုပ်တဲ့ File များ** | ✅ Yes | ❌ No (name hidden) |
+| **Website you visit** | ✅ Yes | ✅ Yes (domain only) |
+| **Pages you view** | ✅ Yes | ❌ No |
+| **Passwords you type** | ✅ Yes | ❌ No |
+| **Form data (search, messages)** | ✅ Yes | ❌ No |
+| **Files you download** | ✅ Yes | ❌ No (name hidden) |
 
 <v-click>
 
-### 🔴 တကယ့် ဥပမာ
+### 🔴 Real Example
 
-Coffee shop WiFi မှာ **HTTP** သုံးရင်:
-- ဆိုင်ပိုင်ရှင်, ISP, hacker တွေ မြင်နိုင်ပါတယ်: `username: john | password: 123456`
+When you use **HTTP** on coffee shop WiFi:
+- The shop owner, ISP, and hackers can see: `username: john | password: 123456`
 
-**HTTPS** သုံးရင်:
-- သူတို့ မြင်ရတာ: `You visited facebook.com` — ဒါပဲ
+When you use **HTTPS**:
+- They only see: `You visited facebook.com` — nothing else
+
 </v-click>
 
 <!--
@@ -783,21 +788,24 @@ ISP နဲ့ network provider ဘာတွေ မြင်နိုင်လဲ
 
 ---
 
-# 🔒 ဘယ်လို လုံခြုံနေမလဲ
+# 🔒 How to Stay Safe
+
 <v-clicks>
 
-- ✅ Password မထည့်ခင် URL bar မှာ **🔒** icon ရှိမရှိ အမြဲ စစ်ပါ
-- ✅ URL က **https://** နဲ့ စရပါမယ်, http:// မဟုတ်
-- ✅ HTTPS မရှိတဲ့ website မှာ password ဘယ်တော့မှ မထည့်ပါနဲ့
-- ✅ Public WiFi မှာ **VPN** သုံးပါ — သင့် traffic အားလုံးကို encrypt လုပ်ပေးပါတယ်
-- ✅ Browser settings မှာ **HTTPS-only mode** ဖွင့်ထားပါ
+- ✅ Always check for **🔒** icon in the URL bar before entering passwords
+- ✅ URL must start with **https://** not http://
+- ✅ Never enter passwords on websites without HTTPS
+- ✅ Use **VPN** on public WiFi — encrypts ALL your traffic
+- ✅ Use **HTTPS-only mode** in your browser settings
+
 </v-clicks>
 
 <v-click>
 
 <div class="mt-8 text-center">
 
-### 💡 Live Demo: Encryption Demo ကို ဖွင့်ပြီး encryption ဘယ်လို အလုပ်လုပ်လဲ ကြည့်ကြရအောင်!
+### 💡 Live Demo: Open the Encryption Demo to see how encryption works!
+
 </div>
 
 </v-click>
@@ -808,35 +816,38 @@ ISP နဲ့ network provider ဘာတွေ မြင်နိုင်လဲ
 
 ---
 
-# ၇. Unknown Publisher Software
+# 7. Unknown Publisher Software
+
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-### 🚨 သတိပေးချက် လက္ခဏာများ
+### 🚨 Warning Signs
 
 <v-clicks>
 
-- ⚠️ Install လုပ်တဲ့အခါ **"Unknown Publisher"** warning ပြခြင်း
-- ⚠️ **Official store မဟုတ်ပဲ random website** တွေကနေ download ရယူခြင်း
-- ⚠️ App က **မလိုအပ်တဲ့ permission** တွေ တောင်းခြင်း (camera, contacts, SMS)
-- ⚠️ **"Cracked"** သို့မဟုတ် **"Free Premium"** version များ
-- ⚠️ **Messenger/Viber** ကတဆင့် `.exe`, `.apk` file ပို့ခြင်း
+- ⚠️ **"Unknown Publisher"** warning when installing
+- ⚠️ Downloaded from **random websites**, not official stores
+- ⚠️ App asks for **unnecessary permissions** (camera, contacts, SMS)
+- ⚠️ **"Cracked"** or **"Free Premium"** versions of paid software
+- ⚠️ File ends in `.exe`, `.apk` sent via **Messenger/Viber**
 
 </v-clicks>
+
 </div>
 <div>
 
-### ✅ ဘေးကင်းသော အလေ့အကျင့်များ
+### ✅ Safe Practices
 
 <v-clicks>
 
-- **Google Play Store** သို့မဟုတ် **App Store** ကနေသာ download လုပ်ပါ
-- Install မလုပ်ခင် **review နှင့် download count** စစ်ပါ
-- **မသိသော link** များမှ app ဘယ်တော့မှ install မလုပ်ပါနဲ့
-- Windows က **"Unknown Publisher"** ပြရင် → **Install မလုပ်ပါနဲ့**
-- သံသယဖြစ်ဖွယ် file များကို **VirusTotal.com** မှာ scan လုပ်ပါ
+- Download only from **Google Play Store** or **App Store**
+- Check **reviews and download count** before installing
+- Never install apps from **unknown links**
+- If Windows shows **"Unknown Publisher"** → **Don't install**
+- Use **VirusTotal.com** to scan suspicious files
 
 </v-clicks>
+
 </div>
 </div>
 
@@ -846,25 +857,25 @@ Unknown Publisher software — Install လုပ်တဲ့အခါ "Unknown P
 
 ---
 
-# Malware install လုပ်မိရင် ဘာဖြစ်မလဲ?
+# What Happens When You Install Malware?
 
 <v-clicks>
 
-1. 📥 **"Free" app** သို့မဟုတ် cracked software download လုပ်မိတယ်
-2. 🔓 Warning ကို လျစ်လျူရှုပြီး **"Install Anyway"** ကို နှိပ်မိတယ်
-3. 🕵️ Malware က **background မှာ တိတ်တဆိတ်** run ပါတယ်
-4. 📤 Malware က:
-   - သင့် password, banking info, ဓာတ်ပုံတွေ **ခိုးနိုင်ပါတယ်**
-   - သင့် screen နှင့် keyboard ရိုက်တာတွေ **record လုပ်နိုင်ပါတယ်**
-   - သင့် contact များကို spam message **ပို့နိုင်ပါတယ်**
-   - နောက်ထပ် malware **ထပ်သွင်းနိုင်ပါတယ်**
-   - သင့် file တွေ **lock** လုပ်ပါတယ် → **Ransomware**
+1. 📥 You download a **"free"** app or cracked software
+2. 🔓 You click **"Install Anyway"** ignoring the warning
+3. 🕵️ The malware runs **silently in the background**
+4. 📤 It can:
+   - **Steal** your passwords, banking info, photos
+   - **Record** your screen and keystrokes
+   - **Send** your contacts spam messages
+   - **Install** more malware without your knowledge
+   - **Lock** your files → **Ransomware**
 
 </v-clicks>
 
 <v-click>
 
-> **မှားတဲ့ click တစ်ချက်က သင့် digital ဘဝ တစ်ခုလုံးကို ဖျက်ဆီးနိုင်ပါတယ်။**
+> **One wrong click can compromise your entire digital life.**
 
 </v-click>
 
@@ -874,35 +885,35 @@ Malware install လုပ်မိရင် ဘာဖြစ်မလဲ — Free
 
 ---
 
-# ၈. Ransomware — သင့် File များ ဓားစာခံ ဖမ်းခံရခြင်း
+# 8. Ransomware — Your Files Held Hostage
 
 <div class="grid grid-cols-2 gap-8">
 <div>
 
-### Ransomware ဆိုတာ ဘာလဲ?
+### What is Ransomware?
 
 <v-clicks>
 
-- သင့် file **အားလုံးကို encrypt** လုပ်ပစ်တဲ့ Malware
-- Document, ဓာတ်ပုံ, video → **lock** ချထားတယ် 🔒
-- ပြန်ဖွင့်ဖို့ **ငွေတောင်းတယ်** (cryptocurrency)
-- ငွေပေးလည်း → file ပြန်ရမယ့် **guarantee မရှိ**
-- Network ထဲက **တခြား device** တွေကိုလည်း ကူးစက်နိုင်ပါတယ်
+- Malware that **encrypts ALL your files**
+- Documents, photos, videos → **locked** 🔒
+- Demands **payment** (usually cryptocurrency) to unlock
+- Even if you pay → **no guarantee** files come back
+- Can spread to **other devices** on the same network
 
 </v-clicks>
 
 </div>
 <div>
 
-### ဘယ်လို ပျံ့နှံ့လဲ
+### How It Spreads
 
 <v-clicks>
 
-- 📧 **Email attachments** — အတုအယောင် ပြေစာများ, အလုပ်ကမ်းလှမ်းမှုများ
-- 💬 **Messenger/Viber links** — "ဒီဓာတ်ပုံကို ကြည့်ပါ!"
+- 📧 **Email attachments** — fake invoices, job offers
+- 💬 **Messenger/Viber links** — "Look at this photo!"
 - 📥 **Cracked software** — free games, premium apps
-- 🔌 **USB drives** — မသိသူဆီက ချေးယူထားသော USB
-- 🌐 **Malicious websites** — အတု download button များ
+- 🔌 **USB drives** — borrowed from unknown people
+- 🌐 **Malicious websites** — fake download buttons
 
 </v-clicks>
 
@@ -915,7 +926,7 @@ Ransomware ဆိုတာ ဘာလဲ — Malware တစ်မျိုးပ�
 
 ---
 
-# Ransomware Attack Screen အစစ်
+# Real Ransomware Attack Screen
 
 <div class="text-center mt-4">
 
@@ -942,7 +953,7 @@ Ransomware ဆိုတာ ဘာလဲ — Malware တစ်မျိုးပ�
 
 <div class="mt-4 text-xl text-center text-red-400 font-bold">
 
-ဒါက သားကောင်တွေ မြင်ရတဲ့ မျက်နှာပြင်ပါ။ သင့်ကို ဒီလို မဖြစ်ပါစေနဲ့။
+This is what victims see. Don't let it be you.
 
 </div>
 
@@ -954,23 +965,23 @@ Ransomware ဆိုတာ ဘာလဲ — Malware တစ်မျိုးပ�
 
 ---
 
-# 🛡️ Ransomware ကို ဘယ်လို ကာကွယ်မလဲ
+# 🛡️ How to Protect Against Ransomware
 
 <v-clicks>
 
-- 💾 **ပုံမှန် backup လုပ်ပါ** — Google Drive, external hard drive (3-2-1 rule)
-  - copy ၃ ခု, media ၂ မျိုး, offsite ၁ ခု
-- 🚫 **သံသယဖြစ်ဖွယ် attachment များ မဖွင့်ပါနဲ့** — သူငယ်ချင်းဆီကဆိုလည်း (account hack ခံရနိုင်ပါတယ်)
-- 📥 **Official source ကနေပဲ install လုပ်ပါ** — Google Play, App Store, official websites
-- 🔄 **Software ကို update ဖြစ်အောင် ထားပါ** — update များက security ပေါက်များကို ပြင်ပေးပါတယ်
-- 🛡️ **Antivirus သုံးပါ** — Windows Defender က free ဖြစ်ပြီး လုံလောက်ပါတယ်
-- 💰 **Ransom ငွေ မပေးပါနဲ့** — file ပြန်ရမယ့် guarantee မရှိပါ, attack ပိုများစေပါတယ်
+- 💾 **Backup regularly** — Google Drive, external hard drive (3-2-1 rule)
+  - 3 copies, 2 different media, 1 offsite
+- 🚫 **Never open suspicious attachments** — even from friends (accounts get hacked)
+- 📥 **Only install from official sources** — Google Play, App Store, official websites
+- 🔄 **Keep software updated** — updates fix security holes
+- 🛡️ **Use antivirus** — Windows Defender is free and good enough
+- 💰 **Never pay the ransom** — no guarantee, funds more attacks
 
 </v-clicks>
 
 <v-click>
 
-> **Backup က သင့်ရဲ့ အကောင်းဆုံး insurance ပါ။ Backup ရှိရင် ransomware က ဘာမှ မလုပ်နိုင်ပါဘူး။**
+> **Backup is your best insurance. If you have a backup, ransomware can't hurt you.**
 
 </v-click>
 
@@ -982,21 +993,21 @@ Ransomware ကနေ ဘယ်လို ကာကွယ်မလဲ — ပု�
 layout: center
 ---
 
-# ဖြစ်ရပ်လေ့လာမှု
+# Case Study
 
 <div class="text-xl max-w-2xl mx-auto">
 
-အလုပ်ရှာနေတဲ့ လူငယ်တစ်ယောက်က **CV, ဖုန်းနံပါတ်, NRC** ကို Facebook group တွေမှာ public post တင်ပါတယ်။
+A young job seeker posts their **CV, phone number, and NRC** publicly in multiple Facebook groups while searching for work.
 
 </div>
 
-### Group ခွဲပြီး ဆွေးနွေးပါ:
+### Discuss in groups:
 
 <v-clicks>
 
-1. **ဘယ်လို အန္တရာယ်တွေ ရှိနိုင်လဲ?**
-2. **ဘယ်အချက်အလက်တွေကို ကာကွယ်သင့်လဲ?**
-3. **ပိုလုံခြုံတဲ့ နည်းလမ်းတွေ ဘာရှိလဲ?**
+1. **What are the risks?**
+2. **What information should be protected?**
+3. **What safer alternatives exist?**
 
 </v-clicks>
 
@@ -1006,15 +1017,16 @@ Case Study — အလုပ်ရှာနေတဲ့ လူငယ်တစ်�
 
 ---
 
-# Security အဓိက မှာကြားချက်များ
+# Security Key Messages
 
 <v-clicks>
 
-- 🔐 **ကိုယ်ရေးအချက်အလက် ကာကွယ်ပါ** — ပိုက်ဆံလို သဘောထားပါ
-- 🧠 **Share မလုပ်ခင် စဉ်းစားပါ** — တစ်ခါ post တင်ရင် အမြဲတမ်း ရှိနေမယ်
-- ⚙️ **Privacy settings ကို စီမံပါ** — ဒီနေ့ပဲ စစ်ဆေးပါ
-- 👔 **Professional digital presence** — employer တွေက သင့်ကို Google မှာ ရှာကြည့်ပါတယ်
-- 🔑 **2FA သုံးပါ** — Gmail, Facebook, banking account အားလုံးမှာ
+- 🔐 **Protect personal data** — treat it like money
+- 🧠 **Think before sharing** — once posted, always posted
+- ⚙️ **Manage privacy settings** — check them today
+- 👔 **Professional digital presence** — employers Google you
+- 🔑 **Use 2FA** on all important accounts — Gmail, Facebook, banking
+
 </v-clicks>
 
 <!--
@@ -1025,8 +1037,8 @@ Security key messages အနှစ်ချုပ် — ကိုယ်ရေ�
 layout: center
 ---
 
-# Session 4 (၂၅ မိနစ်)
-## လက်ရှိနှင့် အနာဂတ် Tech Trends
+# Session 4 (25 min)
+## Current & Future Tech Trends
 
 <!--
 Session 4 — လက်ရှိ technology trend တွေနဲ့ အနာဂတ် trend တွေအကြောင်း ပြောကြမယ်။
@@ -1034,20 +1046,20 @@ Session 4 — လက်ရှိ technology trend တွေနဲ့ အနာ�
 
 ---
 
-# လက်ရှိ ခေတ်စားနေသော Technologies
+# Currently Trending Technologies
 
-| Trend | လက်တွေ့ အကျိုးသက်ရောက်မှု |
+| Trend | Real Impact |
 |-------|-------------|
-| **AI** (ChatGPT, Claude, Gemini) | အလုပ်လျှောက်ခြင်း, သင်ယူခြင်း, content ဖန်တီးခြင်း |
-| **Short-form Video** (TikTok, Reels) | Small business နှင့် freelance အခွင့်အလမ်း |
-| **Remote Work Tools** | Upwork, Fiverr — နိုင်ငံတကာ အခွင့်အလမ်းများ |
-| **Mobile Banking** | KBZPay, Wave — နေ့စဉ် မရှိမဖြစ် လိုအပ်ချက် |
-| **Cloud Computing** | Google Drive — ဖုန်းပျက်လည်း data ကျန်ရစ်မယ် |
+| **AI** (ChatGPT, Claude, Gemini) | Job applications, learning, content creation |
+| **Short-form Video** (TikTok, Reels) | Small business & freelance opportunity |
+| **Remote Work Tools** | Upwork, Fiverr — global opportunities |
+| **Mobile Banking** | KBZPay, Wave — everyday necessity |
+| **Cloud Computing** | Google Drive — phone breaks, data survives |
 
 <v-click>
 
-### 💡 AI က smartphone ပြီးရင် အကြီးဆုံး ပြောင်းလဲမှု ဖြစ်ပါတယ်
-AI tools သုံးတတ်တဲ့သူတွေ အားသာချက် ကြီးမားစွာ ရမယ်
+### 💡 AI is the biggest shift since smartphones
+Those who learn to use AI tools will have a significant advantage
 
 </v-click>
 
@@ -1057,24 +1069,24 @@ AI tools သုံးတတ်တဲ့သူတွေ အားသာချက�
 
 ---
 
-# စောင့်ကြည့်ရမည့် အနာဂတ် Trends (2025-2030)
+# Future Trends to Watch (2025-2030)
 
 <v-clicks>
 
-| Trend | ဘာကို စောင့်ကြည့်ရမလဲ |
+| Trend | What to Watch |
 |-------|--------------|
-| **AI Agents** | ကိုယ့်အစား booking, research, scheduling လုပ်ပေးတဲ့ AI |
-| **AI + Education** | AI tutor တွေနဲ့ ကိုယ့်အဆင့်နဲ့ ကိုက်ညီသော သင်ကြားမှု |
-| **Blockchain & Digital ID** | Decentralized identity နှင့် credentials |
-| **AR / VR** | Immersive training နှင့် remote collaboration |
-| **Green Tech** | Solar, EV, sustainability — တိုးတက်နေသော အလုပ်အကိုင် နယ်ပယ် |
-| **Cybersecurity** | လျင်မြန်စွာ တိုးတက်နေသော demand — ကောင်းမွန်သော entry career |
+| **AI Agents** | AI that books, researches, schedules for you autonomously |
+| **AI + Education** | Personalized learning with AI tutors |
+| **Blockchain & Digital ID** | Decentralized identity & credentials |
+| **AR / VR** | Immersive training & remote collaboration |
+| **Green Tech** | Solar, EV, sustainability — growing job sector |
+| **Cybersecurity** | Rapidly increasing demand — great entry career |
 
 </v-clicks>
 
 <v-click>
 
-> Trend တစ်ခုချင်းစီ = **အလုပ်အကိုင် အခွင့်အလမ်းအသစ်**။ မေးခွန်းက ဒါတွေ ရောက်လာမှာလား မဟုတ်ပါဘူး — သင် အဆင်သင့် ဖြစ်မဖြစ်ပဲ ကွာပါတယ်။
+> Each trend = **new job opportunities**. The question is not IF these will arrive, but whether you'll be ready.
 
 </v-click>
 
@@ -1086,11 +1098,11 @@ AI tools သုံးတတ်တဲ့သူတွေ အားသာချက�
 layout: center
 ---
 
-# Live Demo: AI လက်တွေ့ပြသခြင်း
+# Live Demo: AI in Action
 
 <div class="text-xl">
 
-AI သုံးပြီး **cover letter** ကို ၁၀ စက္ကန့်အတွင်း ရေးပြပါမယ်
+Watch me write a **cover letter** in 10 seconds using AI
 
 </div>
 
@@ -1104,7 +1116,7 @@ Prompt: "Write a cover letter for a customer service position in Yangon"
 
 <div class="mt-8 text-xl">
 
-**AI က ကြောက်စရာ မဟုတ်ပါဘူး — tool တစ်ခုပါ။ သုံးတတ်အောင် သင်ယူပါ။**
+**AI is not something to fear — it's a tool. Learn to use it.**
 
 </div>
 
@@ -1119,7 +1131,7 @@ layout: center
 ---
 
 # Telegram Bot
-## သင့် ပညာရေးနှင့် အသက်မွေးဝမ်းကျောင်း Assistant
+## Your Education & Career Assistant
 
 <!--
 Telegram Bot — ပညာရေးနဲ့ အလုပ်အကိုင် assistant bot ကို မိတ်ဆက်ပြမယ်။
@@ -1127,26 +1139,26 @@ Telegram Bot — ပညာရေးနဲ့ အလုပ်အကိုင် a
 
 ---
 
-# Telegram Bot မိတ်ဆက်
+# Telegram Bot Introduction
 
-### Bot က ဘာတွေ ပေးနိုင်လဲ:
+### What the Bot provides:
 
 <v-clicks>
 
-- 📚 **ပညာရေးလမ်းကြောင်း အချက်အလက်**
-- 🎓 **Vocational training အခွင့်အလမ်းများ**
-- 💼 **Career development resource များ**
-- 📞 **ဆက်သွယ်ရေးနှင့် ပံ့ပိုးမှု feature များ**
+- 📚 **Educational pathway information**
+- 🎓 **Vocational training opportunities**
+- 💼 **Career development resources**
+- 📞 **Contact and support features**
 
 </v-clicks>
 
 <v-click>
 
-### စမ်းကြည့်ကြရအောင်!
+### Let's try it!
 
-1. QR code scan လုပ်ပါ
-2. Bot ထဲ ဝင်ပါ
-3. Menu တွေကို explore လုပ်ပါ
+1. Scan the QR code
+2. Join the Bot
+3. Explore the menus
 
 </v-click>
 
@@ -1156,15 +1168,15 @@ Telegram Bot က ဘာတွေ ပေးနိုင်လဲ — ပညာရ
 
 ---
 
-# လမ်းညွှန်ထားသော လုပ်ဆောင်ချက်များ
+# Guided Tasks
 
-ဒါတွေကို ဖုန်းမှာ အခု စမ်းကြည့်ပါ:
+Try these on your phone now:
 
 <v-clicks>
 
-1. စိတ်ဝင်စားတဲ့ နယ်ပယ်မှာ **vocational course ရှာပါ**
-2. ကိုယ့် ပန်းတိုင်နဲ့ ကိုက်ညီတဲ့ **education pathway ရှာပါ**
-3. **Career guidance resources ရှာပါ**
+1. **Find a vocational course** in your area of interest
+2. **Find an education pathway** that matches your goals
+3. **Locate career guidance resources**
 
 </v-clicks>
 
@@ -1174,15 +1186,15 @@ Telegram Bot က ဘာတွေ ပေးနိုင်လဲ — ပညာရ
 
 ---
 
-# ပြိုင်ပွဲလေး 🏆
+# Mini Competition 🏆
 
-**"ဘယ်သူ အရင်ဆုံး ရှာတွေ့မလဲ?"**
+**"Who can find the answer first?"**
 
 <v-clicks>
 
-- Training အခွင့်အလမ်း ရှာပါ
-- Scholarship resource ရှာပါ
-- Career guidance section ရှာပါ
+- Find a training opportunity
+- Locate a scholarship resource
+- Identify a career guidance section
 
 </v-clicks>
 
@@ -1194,7 +1206,7 @@ Telegram Bot က ဘာတွေ ပေးနိုင်လဲ — ပညာရ
 layout: center
 ---
 
-# ပြန်သုံးသပ်ခြင်းနှင့် ပိတ်ပွဲ (၁၅ မိနစ်)
+# Reflection & Closing (15 min)
 
 <!--
 နောက်ဆုံးအပိုင်း — ပြန်သုံးသပ်ခြင်းနဲ့ ပိတ်ပွဲ။
@@ -1202,17 +1214,17 @@ layout: center
 
 ---
 
-# အဓိက မှတ်သားဖွယ်များ
+# Key Takeaways
 
 <v-clicks>
 
-1. **Digital literacy = ၂၀၂၆ နှင့် အနာဂတ်အတွက် survival skill**
+1. **Digital literacy = survival skill** in 2026 and beyond
 
-2. **Free tool တွေ နေရာတိုင်းမှာ ရှိပါတယ်** — Canva, Google Workspace, AI assistants
+2. **Free tools are everywhere** — Canva, Google Workspace, AI assistants
 
-3. **Security အခြေခံ** — strong password + 2FA + phishing သတိထားမှု
+3. **Security basics** — strong password + 2FA + phishing awareness
 
-4. **AI က သင့် assistant ပါ** — အစားထိုးမှာ မဟုတ်ပါ, ကြောက်စရာ မဟုတ်ပါ
+4. **AI is your assistant** — not your replacement, not something to fear
 
 </v-clicks>
 
@@ -1222,15 +1234,15 @@ Key takeaways ၄ ချက် — ၁) Digital literacy က ၂၀၂၆ မှ
 
 ---
 
-# ပြန်သုံးသပ်ရန် မေးခွန်းများ
+# Reflection Questions
 
 <v-clicks>
 
-- 💭 ဒီနေ့ ဘယ် digital skill သင်ယူရပါသလဲ?
+- 💭 What digital skill did you learn today?
 
-- 🔧 ဒီ skill တွေကို နေ့စဉ်ဘဝမှာ ဘယ်လို အသုံးချမလဲ?
+- 🔧 How can you use these skills in your daily life?
 
-- 🤖 Telegram Bot က သင့် ပညာရေး/အလုပ်အကိုင် ပန်းတိုင်ကို ဘယ်လို ကူညီနိုင်မလဲ?
+- 🤖 How can the Telegram Bot support your education or employment goals?
 
 </v-clicks>
 
@@ -1240,23 +1252,23 @@ Key takeaways ၄ ချက် — ၁) Digital literacy က ၂၀၂၆ မှ
 
 ---
 
-# Post-Test အမြန်
+# Quick Post-Test
 
 <v-clicks>
 
-**1.** Strong password ဖြစ်ဖို့ ဘာလိုအပ်လဲ?
-→ အက္ခရာ ၁၂+ ရောစပ်ထားသော
+**1.** What makes a strong password?
+→ 12+ characters with mixed types
 
-**2.** 2FA ဆိုတာ ဘာလဲ?
-→ Login ဝင်တဲ့အခါ ဒုတိယ verification အဆင့်
+**2.** What is 2FA?
+→ A second verification step when logging in
 
-**3.** Phishing ရဲ့ လက္ခဏာ ဘာလဲ?
-→ အရေးပေါ်ရေသံ + သံသယဖြစ်ဖွယ် link
+**3.** Which is a sign of phishing?
+→ Urgent tone + suspicious link
 
-**4.** Professional CV ဖန်တီးဖို့ ဘယ် free tool က ကူညီနိုင်လဲ?
+**4.** Which free tool helps you create a professional CV?
 → Canva
 
-**5.** Public WiFi မှာ ဘာ မလုပ်သင့်လဲ?
+**5.** What should you NOT do on public WiFi?
 → Online banking
 
 </v-clicks>
@@ -1270,23 +1282,23 @@ layout: center
 class: text-center
 ---
 
-# ကျေးဇူးတင်ပါတယ်!
+# Thank You!
 
-### ယခု သင်သည် ၃ နာရီ အရင်ထက် digital literacy ပိုတိုးတက်သွားပါပြီ 🎉
+### You are now more digitally literate than 3 hours ago 🎉
 
 <div class="mt-8">
 
-ဒီနေ့ပဲ စပါ:
-- ✅ Gmail နှင့် Facebook မှာ **2FA** ဖွင့်ပါ
-- ✅ **LinkedIn** profile ဖန်တီးပါ
-- ✅ CV အတွက် **Canva** စမ်းသုံးပါ
-- ✅ အခွင့်အလမ်းများအတွက် **Telegram Bot** သုံးပါ
+Start today:
+- ✅ Enable **2FA** on your Gmail & Facebook
+- ✅ Create a **LinkedIn** profile
+- ✅ Try **Canva** for your CV
+- ✅ Use the **Telegram Bot** for opportunities
 
 </div>
 
 <div class="mt-12 text-gray-400">
 
-မေးခွန်းများ ရှိပါသလား? ဆွေးနွေးကြပါစို့!
+Questions? Let's discuss!
 
 </div>
 

@@ -234,6 +234,127 @@ You can learn without paying — you just don't get the certificate
 
 ---
 
+# 🚀 Where to Find Jobs in Myanmar
+
+<v-clicks>
+
+| Platform | Type | Link |
+|----------|------|------|
+| **MyJobs.com.mm** | Myanmar's largest job portal | myjobs.com.mm |
+| **JobNet.com.mm** | Jobs across all industries | jobnet.com.mm |
+| **LinkedIn** | Professional networking + global jobs | linkedin.com |
+| **Facebook Groups** | "Jobs in Yangon", "Myanmar Job" groups | Search on Facebook |
+| **Upwork / Fiverr** | Freelance work — design, writing, translation | upwork.com / fiverr.com |
+| **Telegram Channels** | Job alert channels in Myanmar | Search "Myanmar Jobs" |
+
+</v-clicks>
+
+<v-click>
+
+### 💡 Always apply with a **professional Gmail** — not `cutegirl123@gmail.com`
+
+</v-click>
+
+<!--
+အလုပ်ရှာဖွေနိုင်တဲ့ နေရာတွေ — MyJobs.com.mm က မြန်မာနိုင်ငံရဲ့ အကြီးဆုံး job portal ပါ။ JobNet.com.mm မှာလည်း အလုပ်အများကြီး ရှိပါတယ်။ LinkedIn က international job အတွက် အရေးကြီးပါတယ်။ Facebook group တွေမှာ "Jobs in Yangon" ရှာပါ။ Upwork/Fiverr မှာ freelance work ရှာနိုင်ပါတယ် — design, writing, translation။ Telegram channel တွေမှာလည်း job alert တွေ ရနိုင်ပါတယ်။ Professional Gmail နဲ့ apply ပါ။
+-->
+
+---
+
+# 💼 Career Pathways — No Degree Required
+
+<v-clicks>
+
+| Field | Free Learning | Entry Jobs |
+|-------|---------------|------------|
+| **Digital Marketing** | Google Digital Garage (free certificate) | Social media manager, content creator |
+| **Graphic Design** | Canva Design School, YouTube | Freelance designer, print shop |
+| **Data Entry / Admin** | Google Sheets, Typing practice | Office assistant, data entry clerk |
+| **Translation** | Practice English ↔ Myanmar | Freelance translator (Upwork/Fiverr) |
+| **Customer Service** | Communication skills | Call center, online support |
+| **Basic IT / Tech Support** | Google IT Support Certificate (Coursera) | IT support, phone repair |
+
+</v-clicks>
+
+<v-click>
+
+> **You don't need a degree — you need a skill + a portfolio. Start building today.**
+
+</v-click>
+
+<!--
+ဘွဲ့မလိုပဲ အလုပ်ရနိုင်တဲ့ career pathways — Digital Marketing က Google Digital Garage မှာ free certificate ရနိုင်ပါတယ်။ Graphic Design က Canva Design School နဲ့ YouTube မှာ သင်ယူနိုင်ပါတယ်။ Data Entry/Admin က Google Sheets ကျွမ်းကျင်ရင် ရပါတယ်။ Translation — English ↔ Myanmar ဘာသာပြန် Upwork/Fiverr မှာ freelance လုပ်နိုင်ပါတယ်။ ဘွဲ့မလိုပါဘူး — skill နဲ့ portfolio လိုပါတယ်။ ဒီနေ့ပဲ စပါ။
+-->
+
+---
+
+# 🎓 Free Certificates That Employers Value
+
+<v-clicks>
+
+1. **Google Digital Marketing Certificate** — learndigital.withgoogle.com (Free)
+2. **Google IT Support Certificate** — Coursera (Free audit)
+3. **HubSpot Content Marketing** — academy.hubspot.com (Free)
+4. **Meta Social Media Marketing** — Coursera (Free audit)
+5. **Microsoft Office Specialist** — learn.microsoft.com (Free learning)
+6. **Canva Design Certificate** — designschool.canva.com (Free)
+
+</v-clicks>
+
+<v-click>
+
+<div class="mt-4 text-center text-xl">
+
+📱 **All of these can be done from your phone** — no computer needed
+
+</div>
+
+</v-click>
+
+<!--
+အလုပ်ရှင်တွေ တန်ဖိုးထားတဲ့ free certificate တွေ — Google Digital Marketing၊ Google IT Support၊ HubSpot Content Marketing၊ Meta Social Media Marketing၊ Microsoft Office၊ Canva Design Certificate။ ဒါတွေ အားလုံး free ရနိုင်ပါတယ်၊ ဖုန်းနဲ့ လုပ်လို့ ရပါတယ်၊ computer မလိုပါဘူး။ CV မှာ ထည့်ရေးနိုင်ပါတယ်။
+-->
+
+---
+layout: center
+---
+
+# 🧭 NaviGo — Your AI Career Coach
+
+<div class="text-xl max-w-2xl mx-auto mb-8">
+
+Myanmar's first **AI-powered career navigation bot** — free, Burmese-first, on Telegram.
+
+</div>
+
+<v-clicks>
+
+- 🔍 **319+ resources** — jobs, training centers, learning materials in one place
+- 🤖 **AI Career Coach** — speaks Burmese, available 24/7, free
+- 💼 **Job listings** — aggregated from hundreds of sources
+- 🎓 **Training centers** — find free courses near you in Yangon
+- 📱 **No app install** — runs inside Telegram, already on your phone
+
+</v-clicks>
+
+<v-click>
+
+<div class="mt-8 text-center">
+
+### 👉 Open Telegram → Search **@NaviGoMMBot** → Start chatting
+
+**[www.navi-go.org](https://www.navi-go.org)**
+
+</div>
+
+</v-click>
+
+<!--
+NaviGo ကို မိတ်ဆက်ပါ — Myanmar ရဲ့ ပထမဆုံး AI career navigation bot ပါ။ Free ဖြစ်ပြီး မြန်မာလို ပြောနိုင်ပါတယ်။ Telegram မှာ ရနိုင်ပါတယ်။ အလုပ်၊ training center၊ learning resource ၃၁၉ ခုကျော် စုစည်းထားပါတယ်။ AI Career Coach က ၂၄ နာရီ ရနိုင်ပြီး free ပါ။ App install မလိုပါဘူး — Telegram ထဲမှာ @NaviGoMMBot ရှာပြီး စပြောလိုက်ပါ။ QR code scan ခိုင်းပြီး bot ထဲ ဝင်ခိုင်းပါ။ www.navi-go.org မှာ အသေးစိတ် ကြည့်နိုင်ပါတယ်။
+-->
+
+---
+
 # Finance & Daily Life
 
 | App | Purpose |

@@ -1065,6 +1065,8 @@ Questions? Let's discuss!
 
 **Hein Soe** 🙂
 
+[www.heinsoe.com](https://www.heinsoe.com)
+
 </div>
 
 <!--

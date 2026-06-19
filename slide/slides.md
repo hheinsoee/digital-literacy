@@ -1,5 +1,5 @@
 ---
-theme: seriph
+theme: apple-basic
 background: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920
 class: text-center
 highlighter: shiki

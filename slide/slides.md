@@ -482,6 +482,125 @@ Privacy — Facebook/TikTok privacy settings ကို ဒီနေ့ပဲ ပ
 
 ---
 
+# What is Personal Information?
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+### 🔴 Highly Sensitive — Never Share Publicly
+
+<v-clicks>
+
+- 🪪 **NRC / ID card number** & photos
+- 🔑 **Passwords** & PINs
+- 🏦 **Bank account / KBZPay / Wave** details
+- 📷 **ID selfie** (photo holding your ID)
+- 📋 **Household registration** documents
+
+</v-clicks>
+
+</div>
+<div>
+
+### 🟡 Sensitive — Share With Caution
+
+<v-clicks>
+
+- 📱 **Phone number**
+- 📧 **Email address**
+- 🏠 **Home address**
+- 🎂 **Date of birth**
+- 👨‍👩‍👧 **Family members' names**
+- 📍 **Current location** (GPS, check-ins)
+- 🏢 **Workplace & position**
+- 📄 **CV / Resume** with full details
+
+</v-clicks>
+
+</div>
+</div>
+
+<!--
+Personal information ဆိုတာ ဘာတွေလဲ — အဆင့် ၂ ခု ခွဲပြပါ။ အလွန်အရေးကြီးတဲ့ အချက်အလက် — မှတ်ပုံတင်နံပါတ်နဲ့ ဓာတ်ပုံ၊ password နဲ့ PIN၊ ဘဏ်အကောင့်/KBZPay/Wave အချက်အလက်၊ ID ကိုင်ထားတဲ့ selfie၊ အိမ်ထောင်စုစာရင်း — ဒါတွေကို ဘယ်တော့မှ public မှာ မတင်ပါနဲ့။ သတိထားရမယ့် အချက်အလက် — ဖုန်းနံပါတ်၊ email၊ နေရပ်လိပ်စာ၊ မွေးနေ့၊ မိသားစုနာမည်တွေ၊ GPS location၊ အလုပ်အကိုင်၊ CV — ဒါတွေကို ဘယ်သူ့ကိုပေးလဲ သတိထားပါ။
+-->
+
+---
+
+# Why Personal Info Must Stay Private
+
+<v-clicks>
+
+### 🚨 What criminals do with YOUR data
+
+1. **Identity Theft** — use your name, NRC, photo to **create fake accounts**
+2. **Fake Bank Accounts** — open KBZPay/Wave accounts in YOUR name for **money laundering**
+3. **Online Scams** — impersonate you to **scam your friends & family**
+4. **Fake Documents** — create forged IDs, passports using your info
+5. **Internet Crimes** — commit fraud, sell drugs, hack others — **police come to YOU**
+
+</v-clicks>
+
+<!--
+ကိုယ်ရေးအချက်အလက်ကို ဘာကြောင့် private ထားရမလဲ — ရာဇ၀တ်ကောင်တွေ ကိုယ့် data ကို ဘာလုပ်မလဲ။ ၁) ကိုယ့်နာမည်၊ မှတ်ပုံတင်၊ ဓာတ်ပုံနဲ့ fake account ဖွင့်တယ်။ ၂) ကိုယ့်နာမည်နဲ့ KBZPay/Wave account ဖွင့်ပြီး ငွေခဝါချမှု လုပ်တယ်။ ၃) ကိုယ့်ဟန်ဆောင်ပြီး သူငယ်ချင်း/မိသားစုကို လိမ်ညာတယ်။ ၄) အတု ID, passport လုပ်တယ်။ ၅) ကိုယ့်နာမည်နဲ့ internet crime လုပ်ပြီး ရဲက ကိုယ့်ဆီလာတယ်။
+-->
+
+---
+
+# Real Examples of Identity Crime
+
+<v-clicks>
+
+| What They Steal | What They Do | Your Risk |
+|----------------|-------------|-----------|
+| **Name + NRC photo** | Open fake bank/mobile money accounts | Money laundering traced to you |
+| **Phone number** | Register for illegal services | Police investigation on your number |
+| **Selfie + ID card** | Create verified accounts on platforms | Crimes committed under your identity |
+| **CV with full details** | Sell your data on dark web | Targeted scams, blackmail |
+| **Email + password** | Access all linked accounts | Full account takeover |
+
+</v-clicks>
+
+<v-click>
+
+<div class="mt-4 text-xl text-center text-red-400 font-bold">
+
+⚠️ Facebook group မှာ CV တင်တာ = ကိုယ့် identity ကို လူတိုင်းကို ပေးလိုက်တာပါ
+
+</div>
+
+</v-click>
+
+<!--
+တကယ့် ဥပမာတွေ — နာမည်နဲ့ မှတ်ပုံတင်ဓာတ်ပုံ ခိုးယူပြီး fake bank account ဖွင့်တယ်၊ ငွေခဝါချမှု ကိုယ့်နာမည်နဲ့ ဖြစ်သွားတယ်။ ဖုန်းနံပါတ် ခိုးယူပြီး တရားမ၀င် service တွေ register လုပ်တယ်။ Selfie နဲ့ ID card ခိုးပြီး platform တွေမှာ verified account ဖွင့်တယ်။ CV ကို dark web မှာ ရောင်းတယ်။ Facebook group မှာ CV တင်တာ ကိုယ့် identity ကို လူတိုင်းကို ပေးလိုက်တာနဲ့ အတူတူပါပဲ ဆိုတာ ရှင်းပြပါ။
+-->
+
+---
+
+# 🛡️ Protect Your Identity
+
+<v-clicks>
+
+- 🚫 **Never post NRC/ID photos** on social media or public groups
+- 🚫 **Never share** phone number + full name publicly together
+- 📧 **Use separate emails** — one for personal, one for job applications
+- 📄 **Watermark your CV** — add "For [Company Name] Only" before sending
+- 🔒 **Set profiles to Private** — don't let strangers see your photos & info
+- ✅ **Google yourself** — search your name and see what's publicly visible
+
+</v-clicks>
+
+<v-click>
+
+> **Your personal information is as valuable as money. Protect it the same way.**
+
+</v-click>
+
+<!--
+ကိုယ့် identity ကို ဘယ်လို ကာကွယ်မလဲ — မှတ်ပုံတင်/ID ဓာတ်ပုံ social media မှာ မတင်ပါနဲ့။ ဖုန်းနံပါတ်နဲ့ နာမည်အပြည့်အစုံကို public မှာ မတင်ပါနဲ့။ Email ၂ ခု သုံးပါ — personal နဲ့ job application အတွက် ခွဲပါ။ CV ပေးပို့ရင် watermark ထည့်ပါ — "[ကုမ္ပဏီနာမည်] Only" လို့ ရေးပါ။ Profile ကို Private ထားပါ။ Google မှာ ကိုယ့်နာမည် ရိုက်ရှာကြည့်ပါ — ဘာတွေ public ဖြစ်နေလဲ စစ်ဆေးပါ။ ကိုယ်ရေးအချက်အလက် က ပိုက်ဆံလိုပဲ တန်ဖိုးရှိပါတယ်၊ ပိုက်ဆံလိုပဲ ကာကွယ်ပါ။
+-->
+
+---
+
 # 6. Why HTTPS Matters
 
 <div class="grid grid-cols-2 gap-8">

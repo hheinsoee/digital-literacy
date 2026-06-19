@@ -20,6 +20,12 @@ mdc: true
   </span>
 </div>
 
+<div class="mt-4 text-sm opacity-60">
+
+[www.heinsoe.com](https://www.heinsoe.com)
+
+</div>
+
 <!--
 မင်္ဂလာပါ၊ Digital Literacy Training workshop မှ ကြိုဆိုပါတယ်။ ဒီ workshop က အသက် ၁၈-၃၅ နှစ်ကြား လူငယ်တွေအတွက် ၃ နာရီကြာ interactive workshop ဖြစ်ပါတယ်။ Digital tools တွေကို ပညာရေး၊ အလုပ်အကိုင်နဲ့ ကိုယ်ပိုင်ဖွံ့ဖြိုးရေးအတွက် ဘယ်လိုအသုံးချရမလဲဆိုတာ အတူတူ လေ့လာကြမယ်။
 -->

@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "slidev",
-    "present": "slidev --port 3030 --remote",
-    "start": "slidev --remote --port ${PORT:-3030} --host 0.0.0.0",
+    "present": "slidev --port 3030 --remote --host 0.0.0.0",
+    "start": "slidev --remote --port 3030 --host 0.0.0.0",
     "build": "slidev build",
     "build:gh": "slidev build",
     "export": "slidev export"

@@ -12,13 +12,13 @@ download: false
 exportFilename: digital-literacy-slides
 ---
 
-# Digital Literacy သင်တန်း
+# Digital Literacy Training
 
-### ပညာရေး၊ ကျွမ်းကျင်မှုဖွံ့ဖြိုးရေးနှင့် အလုပ်အကိုင်အတွက် Digital Tools များ အသုံးပြုခြင်း
+### Using Digital Tools for Education, Skill Development & Career
 
 <div class="pt-12">
   <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    အသက် ၁၈-၃၅ | ၃ နာရီ | Interactive Workshop
+    Age 18-35 | 3 Hours | Interactive Workshop
   </span>
 </div>
 
@@ -32,56 +32,37 @@ by **Hein Soe** | [www.heinsoe.com](https://www.heinsoe.com)
 မင်္ဂလာပါ၊ Digital Literacy Training workshop မှ ကြိုဆိုပါတယ်။ ဒီ workshop က အသက် ၁၈-၃၅ နှစ်ကြား လူငယ်တွေအတွက် ၃ နာရီကြာ interactive workshop ဖြစ်ပါတယ်။ Digital tools တွေကို ပညာရေး၊ အလုပ်အကိုင်နဲ့ ကိုယ်ပိုင်ဖွံ့ဖြိုးရေးအတွက် ဘယ်လိုအသုံးချရမလဲဆိုတာ အတူတူ လေ့လာကြမယ်။
 -->
 
----
-transition: fade-out
----
-
-# အစီအစဉ်
-
-| အချိန် | အကြောင်းအရာ |
-|------|---------|
-| ၁၅ မိနစ် | ဖွင့်ပွဲနှင့် Icebreaker |
-| ၂၀ မိနစ် | Session 1: Digital Literacy ဆိုတာ ဘာလဲ? |
-| ၄၅ မိနစ် | Session 2: မရှိမဖြစ် Apps, Tools နှင့် Career |
-| ၁၅ မိနစ် | ☕ အနားယူချိန် |
-| ၅၅ မိနစ် | Session 3: Digital Safety & Security + Phishing Demo |
-| ၂၅ မိနစ် | Session 4: Tech Trends + Telegram Bot |
-| ၁၅ မိနစ် | ပြန်လည်သုံးသပ်ခြင်းနှင့် ပိတ်ပွဲ |
-
-<!--
-ဒီနေ့ အချိန်ဇယားကို အတူတူ ကြည့်ရအောင်။ Session ၄ ခုရှိပါတယ်။ တစ်ခုနဲ့တစ်ခုကြားမှာ break ပါ ပါတယ်။ မေးခွန်းရှိရင် အချိန်မရွေး မေးနိုင်ပါတယ်။
--->
 
 ---
 layout: center
 ---
 
-# Icebreaker (၁၅ မိနစ်)
+# Icebreaker (15 min)
 ## Digital Check-In
 
 <!--
-အရင်ဆုံး တစ်ယောက်နဲ့တစ်ယောက် ရင်းနှီးအောင် Icebreaker လေးလုပ်ကြရအောင်။
+Let's start with an icebreaker to get to know each other.
 -->
 
 ---
 
-# 🙋 သင့်အကြောင်း ပြောပြပါ
+# 🙋 Tell Us About Yourself
 
 <v-clicks>
 
-- **နေ့တိုင်း ဘယ် app တွေ သုံးပါသလဲ?**
+- **What apps do you use every day?**
   - Viber? Facebook? TikTok? YouTube?
 
-- **Internet ကို ဘာအတွက် အများဆုံး သုံးပါသလဲ?**
-  - ဖျော်ဖြေရေး? သတင်း? လေ့လာရေး? အလုပ်?
+- **What do you use the Internet for most?**
+  - Entertainment? News? Learning? Work?
 
-- **Online ကနေ skill အသစ် သင်ယူဖူးပါသလား?**
+- **Have you ever learned a new skill online?**
   - YouTube tutorials? Online courses?
 
 </v-clicks>
 
 <!--
-တက်ရောက်သူတွေကို မေးပါ — နေ့တိုင်း ဘယ် app တွေသုံးလဲ၊ internet ကို ဘာအတွက်အများဆုံးသုံးလဲ၊ online ကနေ skill အသစ်တစ်ခုခု သင်ဖူးလား။ လက်ထောင်ပြီး ဖြေခိုင်းပါ။ ပါဝင်မှုကို အားပေးပါ။
+Ask the participants — what apps do you use daily, what do you use the internet for most, have you ever learned a new skill online? Have them raise hands to answer. Encourage participation.
 -->
 
 ---

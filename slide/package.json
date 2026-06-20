@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "slidev",
     "present": "slidev --port 3030 --remote",
+    "start": "slidev --remote --port ${PORT:-3030} --host 0.0.0.0",
     "build": "slidev build",
     "build:gh": "slidev build",
     "export": "slidev export"
